@@ -1,0 +1,6 @@
+Quantization_Level,Model_Architecture,FP32_Baseline(%),Standard_PTQ(%),RoViT(%),Absolute_Boost(%)
+W8A8,deit_base_patch16_224,81.73,81.12,81.74,0.62
+W6A6,deit_base_patch16_224,81.73,71.72,81.52,9.8
+W6A6,vit_small_patch16_224,74.63,21.79,72.19,50.4
+W4A4,deit_base_patch16_224,81.73,0.16,62.01,61.86
+W4A4,vit_small_patch16_224,74.63,0.13,0.64,0.51

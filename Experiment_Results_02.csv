@@ -1,0 +1,5 @@
+Task,Quantization,Model,FP32,Standard_PTQ,RoViT,Boost
+mAP (COCO),W8A8,hustvl/yolos-tiny,28.76,22.59,25.35,2.75
+mAP (COCO),W6A6,hustvl/yolos-tiny,28.76,7.01,16.4,9.39
+mIoU (ADE20K),W8A8,openmmlab/upernet-swin-tiny,43.21,43.15,43.21,0.05
+mIoU (ADE20K),W6A6,openmmlab/upernet-swin-tiny,43.21,30.06,42.72,12.66

@@ -1,0 +1,5 @@
+Model,Bit_Width,FP32_Acc(%),Standard_PTQ(%),Advanced_SOTA(%),RoViT_Ours(%)
+deit-small-patch16-224,W6A6,77.12,56.66,65.75,76.1
+deit-small-patch16-224,W4A4,77.12,0.14,1.83,25.49
+vit-base-patch16-224,W6A6,80.31,54.28,73.83,80.1
+vit-base-patch16-224,W4A4,80.31,0.09,0.9,57.0

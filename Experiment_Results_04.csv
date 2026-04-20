@@ -1,0 +1,8 @@
+Study_Type,Configuration,Top1_Acc(%),Note
+Matrix Type,Identity,54.28,Baseline PTQ
+Matrix Type,Gaussian,0.11,Destroys Math
+Matrix Type,Householder,55.18,Orthogonal
+Matrix Type,QR_Decomposition,80.03,Orthogonal
+Layer Location,attention_only,54.71,Partial RoViT
+Layer Location,mlp_only,79.85,Partial RoViT
+Layer Location,all,79.96,Full RoViT

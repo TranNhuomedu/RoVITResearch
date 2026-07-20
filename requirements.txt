@@ -1,0 +1,23 @@
+# Moi truong cho RoViT_Campaign (Windows + RTX 5080).
+# LUU Y: torch/torchvision cai RIENG bang index cu128 (xem setup_env.ps1),
+# vi RTX 5080 (Blackwell) can ban build CUDA 12.8:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+#
+# transformers ghim <5 vi cac script legacy (RoVIT_Q*) nhan dien layer theo
+# ten module cu ('intermediate.dense'); transformers 5.x doi ten module va
+# se lam cac script do KHONG xoay layer nao ma khong bao loi.
+transformers>=4.46,<5
+datasets<3.0
+huggingface_hub
+timm>=1.0
+numpy
+pandas
+matplotlib
+tqdm
+Pillow
+pycocotools
+torchmetrics
+accelerate
+scipy
+scikit-learn
+torchao

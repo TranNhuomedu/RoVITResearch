@@ -1,0 +1,2 @@
+task,bits,target,fp32,none,qr
+segmentation,W6A6,mlp,43.21,39.75,42.62

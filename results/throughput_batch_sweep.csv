@@ -1,0 +1,9 @@
+model,config,batch,ms_per_batch,img_per_s,overhead_pct
+google/vit-base-patch16-224,dense_qr,1,10.630,94.1,18.53
+google/vit-base-patch16-224,block_128,1,9.640,103.7,7.49
+google/vit-base-patch16-224,dense_qr,8,31.326,255.4,81.22
+google/vit-base-patch16-224,block_128,8,27.650,289.3,59.95
+google/vit-base-patch16-224,dense_qr,32,118.454,270.1,81.23
+google/vit-base-patch16-224,block_128,32,104.447,306.4,59.80
+google/vit-base-patch16-224,dense_qr,128,507.896,252.0,67.37
+google/vit-base-patch16-224,block_128,128,452.874,282.6,49.23

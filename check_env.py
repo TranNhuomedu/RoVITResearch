@@ -1,7 +1,3 @@
-"""Kiem tra moi truong truoc khi chay campaign (khong can package rovit).
-Chay:  python check_env.py  -- moi dong phai [OK]; sua het [FAIL] truoc khi
-chay run_campaign.ps1.
-"""
 import importlib
 import os
 import sys

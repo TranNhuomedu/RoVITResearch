@@ -1,0 +1,9 @@
+method,model,bits,residual_rot,seed,top1,wall_s
+quarot,google/vit-base-patch16-224,W6A6,hadamard_block,42,80.03,184
+quarot,google/vit-base-patch16-224,W4A4,hadamard_block,42,45.83,183
+spinquant,google/vit-base-patch16-224,W4A4,hadamard_block,42,47.57,184
+spinquant,google/vit-base-patch16-224,W6A6,hadamard_block,42,80.14,184
+quarot,google/vit-base-patch16-224,W6A6,hadamard_block,42,80.03,188
+quarot,google/vit-base-patch16-224,W4A4,hadamard_block,42,45.83,199
+spinquant,google/vit-base-patch16-224,W4A4,hadamard_block,42,48.66,182
+spinquant,google/vit-base-patch16-224,W6A6,hadamard_block,42,80.12,182

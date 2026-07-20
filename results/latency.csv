@@ -1,0 +1,9 @@
+model,baseline_ms,rovit_ms,overhead_pct
+deit_tiny_patch16_224,2.514,3.043,21.02
+deit_small_patch16_224,2.558,3.069,19.97
+vit_small_patch16_224,2.556,3.064,19.89
+deit_base_patch16_224,2.605,3.143,20.65
+vit_base_patch16_224,2.586,3.137,21.28
+vit_large_patch16_224,4.838,5.947,22.92
+swin_tiny_patch4_window7_224,5.687,6.171,8.5
+beit_base_patch16_224,3.858,4.41,14.3

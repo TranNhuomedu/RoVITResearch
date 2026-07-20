@@ -1,0 +1,25 @@
+Bit_Config,Config,Group,Top1_Acc,Omega_Storage_MB
+W6A6,QR of Gaussian (baseline/Haar),init,79.84,459.0
+W6A6,"QR of Uniform(-1,1)",init,79.87,459.0
+W6A6,QR of Rademacher(±1),init,79.97,459.0
+W6A6,QR of column-normalized Gaussian,norm,79.94,459.0
+W6A6,QR of sparse Gaussian d=0.1,density,79.68,459.0
+W6A6,QR of sparse Gaussian d=0.5,density,79.76,459.0
+W6A6,Omega stored FP16,precision,79.91,229.5
+W6A6,Omega stored BF16,precision,79.91,229.5
+W6A6,Block-QR b=64,block,78.84,11.2
+W6A6,Block-QR b=128,block,79.56,22.5
+W6A6,Block-QR b=256,block,79.83,45.0
+W6A6,Block-QR b=384,block,79.87,67.5
+W4A4,QR of Gaussian (baseline/Haar),init,26.48,459.0
+W4A4,"QR of Uniform(-1,1)",init,29.03,459.0
+W4A4,QR of Rademacher(±1),init,26.62,459.0
+W4A4,QR of column-normalized Gaussian,norm,26.27,459.0
+W4A4,QR of sparse Gaussian d=0.1,density,16.33,459.0
+W4A4,QR of sparse Gaussian d=0.5,density,28.41,459.0
+W4A4,Omega stored FP16,precision,26.53,229.5
+W4A4,Omega stored BF16,precision,26.65,229.5
+W4A4,Block-QR b=64,block,1.26,11.2
+W4A4,Block-QR b=128,block,5.55,22.5
+W4A4,Block-QR b=256,block,12.65,45.0
+W4A4,Block-QR b=384,block,17.17,67.5

@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+imagenet_data/
+coco_data_official/
+results/
+figures*/
+*.csv
+*.npz
+local_config.py

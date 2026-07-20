@@ -1,0 +1,2 @@
+task,bits,target,fp32,none,qr
+detection,W6A6,mlp,28.75,16.93,22.5

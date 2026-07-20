@@ -1,0 +1,817 @@
+Variant,Layer,d,orth_residual,note
+Identity (Std PTQ),vit.encoder.layer.0.intermediate.dense,768,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.0.output.dense,3072,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.1.intermediate.dense,768,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.1.output.dense,3072,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.2.intermediate.dense,768,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.2.output.dense,3072,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.3.intermediate.dense,768,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.3.output.dense,3072,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.4.intermediate.dense,768,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.4.output.dense,3072,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.5.intermediate.dense,768,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.5.output.dense,3072,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.6.intermediate.dense,768,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.6.output.dense,3072,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.7.intermediate.dense,768,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.7.output.dense,3072,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.8.intermediate.dense,768,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.8.output.dense,3072,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.9.intermediate.dense,768,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.9.output.dense,3072,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.10.intermediate.dense,768,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.10.output.dense,3072,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.11.intermediate.dense,768,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.11.output.dense,3072,0.0,no rotation
+Random Gaussian (non-orth),vit.encoder.layer.0.intermediate.dense,768,27.713161,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.0.output.dense,3072,55.40979,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.1.intermediate.dense,768,27.750643,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.1.output.dense,3072,55.445427,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.2.intermediate.dense,768,27.766708,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.2.output.dense,3072,55.460701,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.3.intermediate.dense,768,27.778961,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.3.output.dense,3072,55.387444,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.4.intermediate.dense,768,27.787428,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.4.output.dense,3072,55.446789,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.5.intermediate.dense,768,27.749348,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.5.output.dense,3072,55.418839,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.6.intermediate.dense,768,27.698204,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.6.output.dense,3072,55.439701,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.7.intermediate.dense,768,27.769167,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.7.output.dense,3072,55.385441,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.8.intermediate.dense,768,27.668825,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.8.output.dense,3072,55.472496,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.9.intermediate.dense,768,27.6763,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.9.output.dense,3072,55.452774,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.10.intermediate.dense,768,27.781681,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.10.output.dense,3072,55.38958,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.11.intermediate.dense,768,27.83025,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.11.output.dense,3072,55.389351,non-orthogonal control
+QR / Haar,vit.encoder.layer.0.intermediate.dense,768,2e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.0.output.dense,3072,5.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.1.intermediate.dense,768,2e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.1.output.dense,3072,5.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.2.intermediate.dense,768,1.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.2.output.dense,3072,5.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.3.intermediate.dense,768,2e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.3.output.dense,3072,5.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.4.intermediate.dense,768,1.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.4.output.dense,3072,5.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.5.intermediate.dense,768,2e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.5.output.dense,3072,5.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.6.intermediate.dense,768,1.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.6.output.dense,3072,5.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.7.intermediate.dense,768,2e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.7.output.dense,3072,5.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.8.intermediate.dense,768,2e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.8.output.dense,3072,5.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.9.intermediate.dense,768,2e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.9.output.dense,3072,5.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.10.intermediate.dense,768,2e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.10.output.dense,3072,5.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.11.intermediate.dense,768,1.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.11.output.dense,3072,5.9e-05,Haar-distributed
+Hadamard truncated,vit.encoder.layer.0.intermediate.dense,768,12.0,truncated 1024->768
+Hadamard truncated,vit.encoder.layer.0.output.dense,3072,24.0,truncated 4096->3072
+Hadamard truncated,vit.encoder.layer.1.intermediate.dense,768,12.0,truncated 1024->768
+Hadamard truncated,vit.encoder.layer.1.output.dense,3072,24.0,truncated 4096->3072
+Hadamard truncated,vit.encoder.layer.2.intermediate.dense,768,12.0,truncated 1024->768
+Hadamard truncated,vit.encoder.layer.2.output.dense,3072,24.0,truncated 4096->3072
+Hadamard truncated,vit.encoder.layer.3.intermediate.dense,768,12.0,truncated 1024->768
+Hadamard truncated,vit.encoder.layer.3.output.dense,3072,24.0,truncated 4096->3072
+Hadamard truncated,vit.encoder.layer.4.intermediate.dense,768,12.0,truncated 1024->768
+Hadamard truncated,vit.encoder.layer.4.output.dense,3072,24.0,truncated 4096->3072
+Hadamard truncated,vit.encoder.layer.5.intermediate.dense,768,12.0,truncated 1024->768
+Hadamard truncated,vit.encoder.layer.5.output.dense,3072,24.0,truncated 4096->3072
+Hadamard truncated,vit.encoder.layer.6.intermediate.dense,768,12.0,truncated 1024->768
+Hadamard truncated,vit.encoder.layer.6.output.dense,3072,24.0,truncated 4096->3072
+Hadamard truncated,vit.encoder.layer.7.intermediate.dense,768,12.0,truncated 1024->768
+Hadamard truncated,vit.encoder.layer.7.output.dense,3072,24.0,truncated 4096->3072
+Hadamard truncated,vit.encoder.layer.8.intermediate.dense,768,12.0,truncated 1024->768
+Hadamard truncated,vit.encoder.layer.8.output.dense,3072,24.0,truncated 4096->3072
+Hadamard truncated,vit.encoder.layer.9.intermediate.dense,768,12.0,truncated 1024->768
+Hadamard truncated,vit.encoder.layer.9.output.dense,3072,24.0,truncated 4096->3072
+Hadamard truncated,vit.encoder.layer.10.intermediate.dense,768,12.0,truncated 1024->768
+Hadamard truncated,vit.encoder.layer.10.output.dense,3072,24.0,truncated 4096->3072
+Hadamard truncated,vit.encoder.layer.11.intermediate.dense,768,12.0,truncated 1024->768
+Hadamard truncated,vit.encoder.layer.11.output.dense,3072,24.0,truncated 4096->3072
+Hadamard truncated + rand ±1,vit.encoder.layer.0.intermediate.dense,768,12.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.0.output.dense,3072,24.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.1.intermediate.dense,768,12.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.1.output.dense,3072,24.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.2.intermediate.dense,768,12.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.2.output.dense,3072,24.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.3.intermediate.dense,768,12.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.3.output.dense,3072,24.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.4.intermediate.dense,768,12.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.4.output.dense,3072,24.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.5.intermediate.dense,768,12.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.5.output.dense,3072,24.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.6.intermediate.dense,768,12.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.6.output.dense,3072,24.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.7.intermediate.dense,768,12.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.7.output.dense,3072,24.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.8.intermediate.dense,768,12.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.8.output.dense,3072,24.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.9.intermediate.dense,768,12.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.9.output.dense,3072,24.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.10.intermediate.dense,768,12.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.10.output.dense,3072,24.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.11.intermediate.dense,768,12.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.11.output.dense,3072,24.0,randomized truncated
+Hadamard padded (exact),vit.encoder.layer.0.intermediate.dense,768,0.0,"padded 768->1024, exact-output"
+Hadamard padded (exact),vit.encoder.layer.0.output.dense,3072,0.0,"padded 3072->4096, exact-output"
+Hadamard padded (exact),vit.encoder.layer.1.intermediate.dense,768,0.0,"padded 768->1024, exact-output"
+Hadamard padded (exact),vit.encoder.layer.1.output.dense,3072,0.0,"padded 3072->4096, exact-output"
+Hadamard padded (exact),vit.encoder.layer.2.intermediate.dense,768,0.0,"padded 768->1024, exact-output"
+Hadamard padded (exact),vit.encoder.layer.2.output.dense,3072,0.0,"padded 3072->4096, exact-output"
+Hadamard padded (exact),vit.encoder.layer.3.intermediate.dense,768,0.0,"padded 768->1024, exact-output"
+Hadamard padded (exact),vit.encoder.layer.3.output.dense,3072,0.0,"padded 3072->4096, exact-output"
+Hadamard padded (exact),vit.encoder.layer.4.intermediate.dense,768,0.0,"padded 768->1024, exact-output"
+Hadamard padded (exact),vit.encoder.layer.4.output.dense,3072,0.0,"padded 3072->4096, exact-output"
+Hadamard padded (exact),vit.encoder.layer.5.intermediate.dense,768,0.0,"padded 768->1024, exact-output"
+Hadamard padded (exact),vit.encoder.layer.5.output.dense,3072,0.0,"padded 3072->4096, exact-output"
+Hadamard padded (exact),vit.encoder.layer.6.intermediate.dense,768,0.0,"padded 768->1024, exact-output"
+Hadamard padded (exact),vit.encoder.layer.6.output.dense,3072,0.0,"padded 3072->4096, exact-output"
+Hadamard padded (exact),vit.encoder.layer.7.intermediate.dense,768,0.0,"padded 768->1024, exact-output"
+Hadamard padded (exact),vit.encoder.layer.7.output.dense,3072,0.0,"padded 3072->4096, exact-output"
+Hadamard padded (exact),vit.encoder.layer.8.intermediate.dense,768,0.0,"padded 768->1024, exact-output"
+Hadamard padded (exact),vit.encoder.layer.8.output.dense,3072,0.0,"padded 3072->4096, exact-output"
+Hadamard padded (exact),vit.encoder.layer.9.intermediate.dense,768,0.0,"padded 768->1024, exact-output"
+Hadamard padded (exact),vit.encoder.layer.9.output.dense,3072,0.0,"padded 3072->4096, exact-output"
+Hadamard padded (exact),vit.encoder.layer.10.intermediate.dense,768,0.0,"padded 768->1024, exact-output"
+Hadamard padded (exact),vit.encoder.layer.10.output.dense,3072,0.0,"padded 3072->4096, exact-output"
+Hadamard padded (exact),vit.encoder.layer.11.intermediate.dense,768,0.0,"padded 768->1024, exact-output"
+Hadamard padded (exact),vit.encoder.layer.11.output.dense,3072,0.0,"padded 3072->4096, exact-output"
+Hadamard block-64,vit.encoder.layer.0.intermediate.dense,768,0.0,block-diag 12x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.0.output.dense,3072,0.0,block-diag 48x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.1.intermediate.dense,768,0.0,block-diag 12x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.1.output.dense,3072,0.0,block-diag 48x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.2.intermediate.dense,768,0.0,block-diag 12x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.2.output.dense,3072,0.0,block-diag 48x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.3.intermediate.dense,768,0.0,block-diag 12x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.3.output.dense,3072,0.0,block-diag 48x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.4.intermediate.dense,768,0.0,block-diag 12x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.4.output.dense,3072,0.0,block-diag 48x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.5.intermediate.dense,768,0.0,block-diag 12x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.5.output.dense,3072,0.0,block-diag 48x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.6.intermediate.dense,768,0.0,block-diag 12x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.6.output.dense,3072,0.0,block-diag 48x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.7.intermediate.dense,768,0.0,block-diag 12x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.7.output.dense,3072,0.0,block-diag 48x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.8.intermediate.dense,768,0.0,block-diag 12x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.8.output.dense,3072,0.0,block-diag 48x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.9.intermediate.dense,768,0.0,block-diag 12x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.9.output.dense,3072,0.0,block-diag 48x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.10.intermediate.dense,768,0.0,block-diag 12x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.10.output.dense,3072,0.0,block-diag 48x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.11.intermediate.dense,768,0.0,block-diag 12x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.11.output.dense,3072,0.0,block-diag 48x64 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.0.intermediate.dense,768,2e-06,block-diag 6x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.0.output.dense,3072,4e-06,block-diag 24x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.1.intermediate.dense,768,2e-06,block-diag 6x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.1.output.dense,3072,4e-06,block-diag 24x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.2.intermediate.dense,768,2e-06,block-diag 6x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.2.output.dense,3072,4e-06,block-diag 24x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.3.intermediate.dense,768,2e-06,block-diag 6x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.3.output.dense,3072,4e-06,block-diag 24x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.4.intermediate.dense,768,2e-06,block-diag 6x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.4.output.dense,3072,4e-06,block-diag 24x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.5.intermediate.dense,768,2e-06,block-diag 6x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.5.output.dense,3072,4e-06,block-diag 24x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.6.intermediate.dense,768,2e-06,block-diag 6x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.6.output.dense,3072,4e-06,block-diag 24x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.7.intermediate.dense,768,2e-06,block-diag 6x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.7.output.dense,3072,4e-06,block-diag 24x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.8.intermediate.dense,768,2e-06,block-diag 6x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.8.output.dense,3072,4e-06,block-diag 24x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.9.intermediate.dense,768,2e-06,block-diag 6x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.9.output.dense,3072,4e-06,block-diag 24x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.10.intermediate.dense,768,2e-06,block-diag 6x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.10.output.dense,3072,4e-06,block-diag 24x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.11.intermediate.dense,768,2e-06,block-diag 6x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.11.output.dense,3072,4e-06,block-diag 24x128 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.0.intermediate.dense,768,0.0,block-diag 3x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.0.output.dense,3072,0.0,block-diag 12x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.1.intermediate.dense,768,0.0,block-diag 3x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.1.output.dense,3072,0.0,block-diag 12x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.2.intermediate.dense,768,0.0,block-diag 3x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.2.output.dense,3072,0.0,block-diag 12x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.3.intermediate.dense,768,0.0,block-diag 3x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.3.output.dense,3072,0.0,block-diag 12x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.4.intermediate.dense,768,0.0,block-diag 3x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.4.output.dense,3072,0.0,block-diag 12x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.5.intermediate.dense,768,0.0,block-diag 3x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.5.output.dense,3072,0.0,block-diag 12x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.6.intermediate.dense,768,0.0,block-diag 3x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.6.output.dense,3072,0.0,block-diag 12x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.7.intermediate.dense,768,0.0,block-diag 3x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.7.output.dense,3072,0.0,block-diag 12x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.8.intermediate.dense,768,0.0,block-diag 3x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.8.output.dense,3072,0.0,block-diag 12x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.9.intermediate.dense,768,0.0,block-diag 3x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.9.output.dense,3072,0.0,block-diag 12x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.10.intermediate.dense,768,0.0,block-diag 3x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.10.output.dense,3072,0.0,block-diag 12x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.11.intermediate.dense,768,0.0,block-diag 3x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.11.output.dense,3072,0.0,block-diag 12x256 (orthogonal exact)
+Hadamard block-128 + rand ±1,vit.encoder.layer.0.intermediate.dense,768,2e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.0.output.dense,3072,4e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.1.intermediate.dense,768,2e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.1.output.dense,3072,4e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.2.intermediate.dense,768,2e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.2.output.dense,3072,4e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.3.intermediate.dense,768,2e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.3.output.dense,3072,4e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.4.intermediate.dense,768,2e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.4.output.dense,3072,4e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.5.intermediate.dense,768,2e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.5.output.dense,3072,4e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.6.intermediate.dense,768,2e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.6.output.dense,3072,4e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.7.intermediate.dense,768,2e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.7.output.dense,3072,4e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.8.intermediate.dense,768,2e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.8.output.dense,3072,4e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.9.intermediate.dense,768,2e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.9.output.dense,3072,4e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.10.intermediate.dense,768,2e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.10.output.dense,3072,4e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.11.intermediate.dense,768,2e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.11.output.dense,3072,4e-06,randomized block (QuIP-style)
+Householder k=1,vit.encoder.layer.0.intermediate.dense,768,6e-06,1 reflections
+Householder k=1,vit.encoder.layer.0.output.dense,3072,0.000113,1 reflections
+Householder k=1,vit.encoder.layer.1.intermediate.dense,768,6e-06,1 reflections
+Householder k=1,vit.encoder.layer.1.output.dense,3072,0.000112,1 reflections
+Householder k=1,vit.encoder.layer.2.intermediate.dense,768,6e-06,1 reflections
+Householder k=1,vit.encoder.layer.2.output.dense,3072,0.000113,1 reflections
+Householder k=1,vit.encoder.layer.3.intermediate.dense,768,6e-06,1 reflections
+Householder k=1,vit.encoder.layer.3.output.dense,3072,0.000112,1 reflections
+Householder k=1,vit.encoder.layer.4.intermediate.dense,768,6e-06,1 reflections
+Householder k=1,vit.encoder.layer.4.output.dense,3072,0.000116,1 reflections
+Householder k=1,vit.encoder.layer.5.intermediate.dense,768,6e-06,1 reflections
+Householder k=1,vit.encoder.layer.5.output.dense,3072,0.000108,1 reflections
+Householder k=1,vit.encoder.layer.6.intermediate.dense,768,6e-06,1 reflections
+Householder k=1,vit.encoder.layer.6.output.dense,3072,0.000113,1 reflections
+Householder k=1,vit.encoder.layer.7.intermediate.dense,768,6e-06,1 reflections
+Householder k=1,vit.encoder.layer.7.output.dense,3072,0.000114,1 reflections
+Householder k=1,vit.encoder.layer.8.intermediate.dense,768,6e-06,1 reflections
+Householder k=1,vit.encoder.layer.8.output.dense,3072,0.000113,1 reflections
+Householder k=1,vit.encoder.layer.9.intermediate.dense,768,6e-06,1 reflections
+Householder k=1,vit.encoder.layer.9.output.dense,3072,0.000111,1 reflections
+Householder k=1,vit.encoder.layer.10.intermediate.dense,768,6e-06,1 reflections
+Householder k=1,vit.encoder.layer.10.output.dense,3072,0.000114,1 reflections
+Householder k=1,vit.encoder.layer.11.intermediate.dense,768,6e-06,1 reflections
+Householder k=1,vit.encoder.layer.11.output.dense,3072,0.000115,1 reflections
+Householder k=8,vit.encoder.layer.0.intermediate.dense,768,6e-06,8 reflections
+Householder k=8,vit.encoder.layer.0.output.dense,3072,3.5e-05,8 reflections
+Householder k=8,vit.encoder.layer.1.intermediate.dense,768,6e-06,8 reflections
+Householder k=8,vit.encoder.layer.1.output.dense,3072,3.5e-05,8 reflections
+Householder k=8,vit.encoder.layer.2.intermediate.dense,768,6e-06,8 reflections
+Householder k=8,vit.encoder.layer.2.output.dense,3072,3.5e-05,8 reflections
+Householder k=8,vit.encoder.layer.3.intermediate.dense,768,6e-06,8 reflections
+Householder k=8,vit.encoder.layer.3.output.dense,3072,3.5e-05,8 reflections
+Householder k=8,vit.encoder.layer.4.intermediate.dense,768,6e-06,8 reflections
+Householder k=8,vit.encoder.layer.4.output.dense,3072,3.5e-05,8 reflections
+Householder k=8,vit.encoder.layer.5.intermediate.dense,768,6e-06,8 reflections
+Householder k=8,vit.encoder.layer.5.output.dense,3072,3.5e-05,8 reflections
+Householder k=8,vit.encoder.layer.6.intermediate.dense,768,6e-06,8 reflections
+Householder k=8,vit.encoder.layer.6.output.dense,3072,3.4e-05,8 reflections
+Householder k=8,vit.encoder.layer.7.intermediate.dense,768,6e-06,8 reflections
+Householder k=8,vit.encoder.layer.7.output.dense,3072,3.5e-05,8 reflections
+Householder k=8,vit.encoder.layer.8.intermediate.dense,768,6e-06,8 reflections
+Householder k=8,vit.encoder.layer.8.output.dense,3072,3.4e-05,8 reflections
+Householder k=8,vit.encoder.layer.9.intermediate.dense,768,6e-06,8 reflections
+Householder k=8,vit.encoder.layer.9.output.dense,3072,3.5e-05,8 reflections
+Householder k=8,vit.encoder.layer.10.intermediate.dense,768,6e-06,8 reflections
+Householder k=8,vit.encoder.layer.10.output.dense,3072,3.5e-05,8 reflections
+Householder k=8,vit.encoder.layer.11.intermediate.dense,768,6e-06,8 reflections
+Householder k=8,vit.encoder.layer.11.output.dense,3072,3.5e-05,8 reflections
+Householder k=64,vit.encoder.layer.0.intermediate.dense,768,1.1e-05,64 reflections
+Householder k=64,vit.encoder.layer.0.output.dense,3072,3.5e-05,64 reflections
+Householder k=64,vit.encoder.layer.1.intermediate.dense,768,1e-05,64 reflections
+Householder k=64,vit.encoder.layer.1.output.dense,3072,3.5e-05,64 reflections
+Householder k=64,vit.encoder.layer.2.intermediate.dense,768,1.1e-05,64 reflections
+Householder k=64,vit.encoder.layer.2.output.dense,3072,3.4e-05,64 reflections
+Householder k=64,vit.encoder.layer.3.intermediate.dense,768,1.1e-05,64 reflections
+Householder k=64,vit.encoder.layer.3.output.dense,3072,3.5e-05,64 reflections
+Householder k=64,vit.encoder.layer.4.intermediate.dense,768,1.1e-05,64 reflections
+Householder k=64,vit.encoder.layer.4.output.dense,3072,3.4e-05,64 reflections
+Householder k=64,vit.encoder.layer.5.intermediate.dense,768,1.1e-05,64 reflections
+Householder k=64,vit.encoder.layer.5.output.dense,3072,3.5e-05,64 reflections
+Householder k=64,vit.encoder.layer.6.intermediate.dense,768,1.1e-05,64 reflections
+Householder k=64,vit.encoder.layer.6.output.dense,3072,3.5e-05,64 reflections
+Householder k=64,vit.encoder.layer.7.intermediate.dense,768,1.1e-05,64 reflections
+Householder k=64,vit.encoder.layer.7.output.dense,3072,3.5e-05,64 reflections
+Householder k=64,vit.encoder.layer.8.intermediate.dense,768,1e-05,64 reflections
+Householder k=64,vit.encoder.layer.8.output.dense,3072,3.5e-05,64 reflections
+Householder k=64,vit.encoder.layer.9.intermediate.dense,768,1.1e-05,64 reflections
+Householder k=64,vit.encoder.layer.9.output.dense,3072,3.5e-05,64 reflections
+Householder k=64,vit.encoder.layer.10.intermediate.dense,768,1.1e-05,64 reflections
+Householder k=64,vit.encoder.layer.10.output.dense,3072,3.5e-05,64 reflections
+Householder k=64,vit.encoder.layer.11.intermediate.dense,768,1e-05,64 reflections
+Householder k=64,vit.encoder.layer.11.output.dense,3072,3.5e-05,64 reflections
+Householder k=d,vit.encoder.layer.0.intermediate.dense,768,3.1e-05,768 reflections
+Householder k=d,vit.encoder.layer.0.output.dense,3072,0.000132,3072 reflections
+Householder k=d,vit.encoder.layer.1.intermediate.dense,768,3.1e-05,768 reflections
+Householder k=d,vit.encoder.layer.1.output.dense,3072,0.000132,3072 reflections
+Householder k=d,vit.encoder.layer.2.intermediate.dense,768,3.1e-05,768 reflections
+Householder k=d,vit.encoder.layer.2.output.dense,3072,0.000132,3072 reflections
+Householder k=d,vit.encoder.layer.3.intermediate.dense,768,3.1e-05,768 reflections
+Householder k=d,vit.encoder.layer.3.output.dense,3072,0.000133,3072 reflections
+Householder k=d,vit.encoder.layer.4.intermediate.dense,768,3.1e-05,768 reflections
+Householder k=d,vit.encoder.layer.4.output.dense,3072,0.000132,3072 reflections
+Householder k=d,vit.encoder.layer.5.intermediate.dense,768,3.1e-05,768 reflections
+Householder k=d,vit.encoder.layer.5.output.dense,3072,0.000132,3072 reflections
+Householder k=d,vit.encoder.layer.6.intermediate.dense,768,3.1e-05,768 reflections
+Householder k=d,vit.encoder.layer.6.output.dense,3072,0.000133,3072 reflections
+Householder k=d,vit.encoder.layer.7.intermediate.dense,768,3.1e-05,768 reflections
+Householder k=d,vit.encoder.layer.7.output.dense,3072,0.000132,3072 reflections
+Householder k=d,vit.encoder.layer.8.intermediate.dense,768,3.1e-05,768 reflections
+Householder k=d,vit.encoder.layer.8.output.dense,3072,0.000132,3072 reflections
+Householder k=d,vit.encoder.layer.9.intermediate.dense,768,3.1e-05,768 reflections
+Householder k=d,vit.encoder.layer.9.output.dense,3072,0.000133,3072 reflections
+Householder k=d,vit.encoder.layer.10.intermediate.dense,768,3.1e-05,768 reflections
+Householder k=d,vit.encoder.layer.10.output.dense,3072,0.000132,3072 reflections
+Householder k=d,vit.encoder.layer.11.intermediate.dense,768,3.1e-05,768 reflections
+Householder k=d,vit.encoder.layer.11.output.dense,3072,0.000132,3072 reflections
+Cayley random,vit.encoder.layer.0.intermediate.dense,768,2.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.0.output.dense,3072,6.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.1.intermediate.dense,768,2.4e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.1.output.dense,3072,6.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.2.intermediate.dense,768,2.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.2.output.dense,3072,6.2e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.3.intermediate.dense,768,2.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.3.output.dense,3072,6.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.4.intermediate.dense,768,2.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.4.output.dense,3072,6.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.5.intermediate.dense,768,2.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.5.output.dense,3072,6.2e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.6.intermediate.dense,768,2.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.6.output.dense,3072,6.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.7.intermediate.dense,768,2.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.7.output.dense,3072,6.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.8.intermediate.dense,768,2.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.8.output.dense,3072,6.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.9.intermediate.dense,768,2.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.9.output.dense,3072,6.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.10.intermediate.dense,768,2.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.10.output.dense,3072,6.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.11.intermediate.dense,768,2.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.11.output.dense,3072,6.3e-05,Cayley of random skew
+PCA rotation (data-aware),vit.encoder.layer.0.intermediate.dense,768,3.5e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.0.output.dense,3072,0.000114,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.1.intermediate.dense,768,3.9e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.1.output.dense,3072,0.000121,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.2.intermediate.dense,768,4.2e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.2.output.dense,3072,0.000122,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.3.intermediate.dense,768,4.2e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.3.output.dense,3072,0.000117,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.4.intermediate.dense,768,4.1e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.4.output.dense,3072,0.000105,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.5.intermediate.dense,768,4.1e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.5.output.dense,3072,8.9e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.6.intermediate.dense,768,4.1e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.6.output.dense,3072,8.9e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.7.intermediate.dense,768,4.2e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.7.output.dense,3072,0.000114,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.8.intermediate.dense,768,4.1e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.8.output.dense,3072,0.000116,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.9.intermediate.dense,768,4.2e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.9.output.dense,3072,0.000107,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.10.intermediate.dense,768,4.2e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.10.output.dense,3072,0.000104,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.11.intermediate.dense,768,4.1e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.11.output.dense,3072,0.0001,eigenbasis of activation covariance
+ICA orthogonalized (data-aware),vit.encoder.layer.0.intermediate.dense,768,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.0.output.dense,3072,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.1.intermediate.dense,768,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.1.output.dense,3072,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.2.intermediate.dense,768,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.2.output.dense,3072,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.3.intermediate.dense,768,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.3.output.dense,3072,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.4.intermediate.dense,768,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.4.output.dense,3072,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.5.intermediate.dense,768,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.5.output.dense,3072,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.6.intermediate.dense,768,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.6.output.dense,3072,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.7.intermediate.dense,768,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.7.output.dense,3072,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.8.intermediate.dense,768,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.8.output.dense,3072,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.9.intermediate.dense,768,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.9.output.dense,3072,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.10.intermediate.dense,768,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.10.output.dense,3072,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.11.intermediate.dense,768,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.11.output.dense,3072,-1.0,sklearn not available — skipped
+Identity (Std PTQ),vit.encoder.layer.0.intermediate.dense,768,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.0.output.dense,3072,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.1.intermediate.dense,768,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.1.output.dense,3072,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.2.intermediate.dense,768,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.2.output.dense,3072,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.3.intermediate.dense,768,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.3.output.dense,3072,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.4.intermediate.dense,768,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.4.output.dense,3072,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.5.intermediate.dense,768,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.5.output.dense,3072,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.6.intermediate.dense,768,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.6.output.dense,3072,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.7.intermediate.dense,768,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.7.output.dense,3072,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.8.intermediate.dense,768,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.8.output.dense,3072,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.9.intermediate.dense,768,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.9.output.dense,3072,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.10.intermediate.dense,768,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.10.output.dense,3072,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.11.intermediate.dense,768,0.0,no rotation
+Identity (Std PTQ),vit.encoder.layer.11.output.dense,3072,0.0,no rotation
+Random Gaussian (non-orth),vit.encoder.layer.0.intermediate.dense,768,27.713161,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.0.output.dense,3072,55.40979,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.1.intermediate.dense,768,27.750643,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.1.output.dense,3072,55.445427,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.2.intermediate.dense,768,27.766708,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.2.output.dense,3072,55.460701,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.3.intermediate.dense,768,27.778961,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.3.output.dense,3072,55.387444,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.4.intermediate.dense,768,27.787428,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.4.output.dense,3072,55.446789,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.5.intermediate.dense,768,27.749348,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.5.output.dense,3072,55.418839,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.6.intermediate.dense,768,27.698204,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.6.output.dense,3072,55.439701,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.7.intermediate.dense,768,27.769167,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.7.output.dense,3072,55.385441,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.8.intermediate.dense,768,27.668825,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.8.output.dense,3072,55.472496,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.9.intermediate.dense,768,27.6763,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.9.output.dense,3072,55.452774,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.10.intermediate.dense,768,27.781681,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.10.output.dense,3072,55.38958,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.11.intermediate.dense,768,27.83025,non-orthogonal control
+Random Gaussian (non-orth),vit.encoder.layer.11.output.dense,3072,55.389351,non-orthogonal control
+QR / Haar,vit.encoder.layer.0.intermediate.dense,768,2e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.0.output.dense,3072,5.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.1.intermediate.dense,768,2e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.1.output.dense,3072,5.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.2.intermediate.dense,768,1.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.2.output.dense,3072,5.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.3.intermediate.dense,768,2e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.3.output.dense,3072,5.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.4.intermediate.dense,768,1.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.4.output.dense,3072,5.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.5.intermediate.dense,768,2e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.5.output.dense,3072,5.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.6.intermediate.dense,768,1.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.6.output.dense,3072,5.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.7.intermediate.dense,768,2e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.7.output.dense,3072,5.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.8.intermediate.dense,768,2e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.8.output.dense,3072,5.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.9.intermediate.dense,768,2e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.9.output.dense,3072,5.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.10.intermediate.dense,768,2e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.10.output.dense,3072,5.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.11.intermediate.dense,768,1.9e-05,Haar-distributed
+QR / Haar,vit.encoder.layer.11.output.dense,3072,5.9e-05,Haar-distributed
+Hadamard truncated,vit.encoder.layer.0.intermediate.dense,768,12.0,truncated 1024->768
+Hadamard truncated,vit.encoder.layer.0.output.dense,3072,24.0,truncated 4096->3072
+Hadamard truncated,vit.encoder.layer.1.intermediate.dense,768,12.0,truncated 1024->768
+Hadamard truncated,vit.encoder.layer.1.output.dense,3072,24.0,truncated 4096->3072
+Hadamard truncated,vit.encoder.layer.2.intermediate.dense,768,12.0,truncated 1024->768
+Hadamard truncated,vit.encoder.layer.2.output.dense,3072,24.0,truncated 4096->3072
+Hadamard truncated,vit.encoder.layer.3.intermediate.dense,768,12.0,truncated 1024->768
+Hadamard truncated,vit.encoder.layer.3.output.dense,3072,24.0,truncated 4096->3072
+Hadamard truncated,vit.encoder.layer.4.intermediate.dense,768,12.0,truncated 1024->768
+Hadamard truncated,vit.encoder.layer.4.output.dense,3072,24.0,truncated 4096->3072
+Hadamard truncated,vit.encoder.layer.5.intermediate.dense,768,12.0,truncated 1024->768
+Hadamard truncated,vit.encoder.layer.5.output.dense,3072,24.0,truncated 4096->3072
+Hadamard truncated,vit.encoder.layer.6.intermediate.dense,768,12.0,truncated 1024->768
+Hadamard truncated,vit.encoder.layer.6.output.dense,3072,24.0,truncated 4096->3072
+Hadamard truncated,vit.encoder.layer.7.intermediate.dense,768,12.0,truncated 1024->768
+Hadamard truncated,vit.encoder.layer.7.output.dense,3072,24.0,truncated 4096->3072
+Hadamard truncated,vit.encoder.layer.8.intermediate.dense,768,12.0,truncated 1024->768
+Hadamard truncated,vit.encoder.layer.8.output.dense,3072,24.0,truncated 4096->3072
+Hadamard truncated,vit.encoder.layer.9.intermediate.dense,768,12.0,truncated 1024->768
+Hadamard truncated,vit.encoder.layer.9.output.dense,3072,24.0,truncated 4096->3072
+Hadamard truncated,vit.encoder.layer.10.intermediate.dense,768,12.0,truncated 1024->768
+Hadamard truncated,vit.encoder.layer.10.output.dense,3072,24.0,truncated 4096->3072
+Hadamard truncated,vit.encoder.layer.11.intermediate.dense,768,12.0,truncated 1024->768
+Hadamard truncated,vit.encoder.layer.11.output.dense,3072,24.0,truncated 4096->3072
+Hadamard truncated + rand ±1,vit.encoder.layer.0.intermediate.dense,768,12.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.0.output.dense,3072,24.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.1.intermediate.dense,768,12.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.1.output.dense,3072,24.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.2.intermediate.dense,768,12.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.2.output.dense,3072,24.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.3.intermediate.dense,768,12.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.3.output.dense,3072,24.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.4.intermediate.dense,768,12.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.4.output.dense,3072,24.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.5.intermediate.dense,768,12.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.5.output.dense,3072,24.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.6.intermediate.dense,768,12.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.6.output.dense,3072,24.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.7.intermediate.dense,768,12.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.7.output.dense,3072,24.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.8.intermediate.dense,768,12.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.8.output.dense,3072,24.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.9.intermediate.dense,768,12.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.9.output.dense,3072,24.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.10.intermediate.dense,768,12.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.10.output.dense,3072,24.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.11.intermediate.dense,768,12.0,randomized truncated
+Hadamard truncated + rand ±1,vit.encoder.layer.11.output.dense,3072,24.0,randomized truncated
+Hadamard padded (exact),vit.encoder.layer.0.intermediate.dense,768,0.0,"padded 768->1024, exact-output"
+Hadamard padded (exact),vit.encoder.layer.0.output.dense,3072,0.0,"padded 3072->4096, exact-output"
+Hadamard padded (exact),vit.encoder.layer.1.intermediate.dense,768,0.0,"padded 768->1024, exact-output"
+Hadamard padded (exact),vit.encoder.layer.1.output.dense,3072,0.0,"padded 3072->4096, exact-output"
+Hadamard padded (exact),vit.encoder.layer.2.intermediate.dense,768,0.0,"padded 768->1024, exact-output"
+Hadamard padded (exact),vit.encoder.layer.2.output.dense,3072,0.0,"padded 3072->4096, exact-output"
+Hadamard padded (exact),vit.encoder.layer.3.intermediate.dense,768,0.0,"padded 768->1024, exact-output"
+Hadamard padded (exact),vit.encoder.layer.3.output.dense,3072,0.0,"padded 3072->4096, exact-output"
+Hadamard padded (exact),vit.encoder.layer.4.intermediate.dense,768,0.0,"padded 768->1024, exact-output"
+Hadamard padded (exact),vit.encoder.layer.4.output.dense,3072,0.0,"padded 3072->4096, exact-output"
+Hadamard padded (exact),vit.encoder.layer.5.intermediate.dense,768,0.0,"padded 768->1024, exact-output"
+Hadamard padded (exact),vit.encoder.layer.5.output.dense,3072,0.0,"padded 3072->4096, exact-output"
+Hadamard padded (exact),vit.encoder.layer.6.intermediate.dense,768,0.0,"padded 768->1024, exact-output"
+Hadamard padded (exact),vit.encoder.layer.6.output.dense,3072,0.0,"padded 3072->4096, exact-output"
+Hadamard padded (exact),vit.encoder.layer.7.intermediate.dense,768,0.0,"padded 768->1024, exact-output"
+Hadamard padded (exact),vit.encoder.layer.7.output.dense,3072,0.0,"padded 3072->4096, exact-output"
+Hadamard padded (exact),vit.encoder.layer.8.intermediate.dense,768,0.0,"padded 768->1024, exact-output"
+Hadamard padded (exact),vit.encoder.layer.8.output.dense,3072,0.0,"padded 3072->4096, exact-output"
+Hadamard padded (exact),vit.encoder.layer.9.intermediate.dense,768,0.0,"padded 768->1024, exact-output"
+Hadamard padded (exact),vit.encoder.layer.9.output.dense,3072,0.0,"padded 3072->4096, exact-output"
+Hadamard padded (exact),vit.encoder.layer.10.intermediate.dense,768,0.0,"padded 768->1024, exact-output"
+Hadamard padded (exact),vit.encoder.layer.10.output.dense,3072,0.0,"padded 3072->4096, exact-output"
+Hadamard padded (exact),vit.encoder.layer.11.intermediate.dense,768,0.0,"padded 768->1024, exact-output"
+Hadamard padded (exact),vit.encoder.layer.11.output.dense,3072,0.0,"padded 3072->4096, exact-output"
+Hadamard block-64,vit.encoder.layer.0.intermediate.dense,768,0.0,block-diag 12x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.0.output.dense,3072,0.0,block-diag 48x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.1.intermediate.dense,768,0.0,block-diag 12x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.1.output.dense,3072,0.0,block-diag 48x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.2.intermediate.dense,768,0.0,block-diag 12x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.2.output.dense,3072,0.0,block-diag 48x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.3.intermediate.dense,768,0.0,block-diag 12x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.3.output.dense,3072,0.0,block-diag 48x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.4.intermediate.dense,768,0.0,block-diag 12x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.4.output.dense,3072,0.0,block-diag 48x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.5.intermediate.dense,768,0.0,block-diag 12x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.5.output.dense,3072,0.0,block-diag 48x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.6.intermediate.dense,768,0.0,block-diag 12x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.6.output.dense,3072,0.0,block-diag 48x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.7.intermediate.dense,768,0.0,block-diag 12x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.7.output.dense,3072,0.0,block-diag 48x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.8.intermediate.dense,768,0.0,block-diag 12x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.8.output.dense,3072,0.0,block-diag 48x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.9.intermediate.dense,768,0.0,block-diag 12x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.9.output.dense,3072,0.0,block-diag 48x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.10.intermediate.dense,768,0.0,block-diag 12x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.10.output.dense,3072,0.0,block-diag 48x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.11.intermediate.dense,768,0.0,block-diag 12x64 (orthogonal exact)
+Hadamard block-64,vit.encoder.layer.11.output.dense,3072,0.0,block-diag 48x64 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.0.intermediate.dense,768,2e-06,block-diag 6x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.0.output.dense,3072,4e-06,block-diag 24x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.1.intermediate.dense,768,2e-06,block-diag 6x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.1.output.dense,3072,4e-06,block-diag 24x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.2.intermediate.dense,768,2e-06,block-diag 6x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.2.output.dense,3072,4e-06,block-diag 24x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.3.intermediate.dense,768,2e-06,block-diag 6x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.3.output.dense,3072,4e-06,block-diag 24x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.4.intermediate.dense,768,2e-06,block-diag 6x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.4.output.dense,3072,4e-06,block-diag 24x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.5.intermediate.dense,768,2e-06,block-diag 6x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.5.output.dense,3072,4e-06,block-diag 24x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.6.intermediate.dense,768,2e-06,block-diag 6x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.6.output.dense,3072,4e-06,block-diag 24x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.7.intermediate.dense,768,2e-06,block-diag 6x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.7.output.dense,3072,4e-06,block-diag 24x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.8.intermediate.dense,768,2e-06,block-diag 6x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.8.output.dense,3072,4e-06,block-diag 24x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.9.intermediate.dense,768,2e-06,block-diag 6x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.9.output.dense,3072,4e-06,block-diag 24x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.10.intermediate.dense,768,2e-06,block-diag 6x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.10.output.dense,3072,4e-06,block-diag 24x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.11.intermediate.dense,768,2e-06,block-diag 6x128 (orthogonal exact)
+Hadamard block-128,vit.encoder.layer.11.output.dense,3072,4e-06,block-diag 24x128 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.0.intermediate.dense,768,0.0,block-diag 3x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.0.output.dense,3072,0.0,block-diag 12x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.1.intermediate.dense,768,0.0,block-diag 3x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.1.output.dense,3072,0.0,block-diag 12x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.2.intermediate.dense,768,0.0,block-diag 3x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.2.output.dense,3072,0.0,block-diag 12x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.3.intermediate.dense,768,0.0,block-diag 3x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.3.output.dense,3072,0.0,block-diag 12x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.4.intermediate.dense,768,0.0,block-diag 3x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.4.output.dense,3072,0.0,block-diag 12x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.5.intermediate.dense,768,0.0,block-diag 3x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.5.output.dense,3072,0.0,block-diag 12x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.6.intermediate.dense,768,0.0,block-diag 3x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.6.output.dense,3072,0.0,block-diag 12x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.7.intermediate.dense,768,0.0,block-diag 3x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.7.output.dense,3072,0.0,block-diag 12x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.8.intermediate.dense,768,0.0,block-diag 3x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.8.output.dense,3072,0.0,block-diag 12x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.9.intermediate.dense,768,0.0,block-diag 3x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.9.output.dense,3072,0.0,block-diag 12x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.10.intermediate.dense,768,0.0,block-diag 3x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.10.output.dense,3072,0.0,block-diag 12x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.11.intermediate.dense,768,0.0,block-diag 3x256 (orthogonal exact)
+Hadamard block-256,vit.encoder.layer.11.output.dense,3072,0.0,block-diag 12x256 (orthogonal exact)
+Hadamard block-128 + rand ±1,vit.encoder.layer.0.intermediate.dense,768,2e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.0.output.dense,3072,4e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.1.intermediate.dense,768,2e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.1.output.dense,3072,4e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.2.intermediate.dense,768,2e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.2.output.dense,3072,4e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.3.intermediate.dense,768,2e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.3.output.dense,3072,4e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.4.intermediate.dense,768,2e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.4.output.dense,3072,4e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.5.intermediate.dense,768,2e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.5.output.dense,3072,4e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.6.intermediate.dense,768,2e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.6.output.dense,3072,4e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.7.intermediate.dense,768,2e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.7.output.dense,3072,4e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.8.intermediate.dense,768,2e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.8.output.dense,3072,4e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.9.intermediate.dense,768,2e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.9.output.dense,3072,4e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.10.intermediate.dense,768,2e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.10.output.dense,3072,4e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.11.intermediate.dense,768,2e-06,randomized block (QuIP-style)
+Hadamard block-128 + rand ±1,vit.encoder.layer.11.output.dense,3072,4e-06,randomized block (QuIP-style)
+Householder k=1,vit.encoder.layer.0.intermediate.dense,768,6e-06,1 reflections
+Householder k=1,vit.encoder.layer.0.output.dense,3072,0.000113,1 reflections
+Householder k=1,vit.encoder.layer.1.intermediate.dense,768,6e-06,1 reflections
+Householder k=1,vit.encoder.layer.1.output.dense,3072,0.000112,1 reflections
+Householder k=1,vit.encoder.layer.2.intermediate.dense,768,6e-06,1 reflections
+Householder k=1,vit.encoder.layer.2.output.dense,3072,0.000113,1 reflections
+Householder k=1,vit.encoder.layer.3.intermediate.dense,768,6e-06,1 reflections
+Householder k=1,vit.encoder.layer.3.output.dense,3072,0.000112,1 reflections
+Householder k=1,vit.encoder.layer.4.intermediate.dense,768,6e-06,1 reflections
+Householder k=1,vit.encoder.layer.4.output.dense,3072,0.000116,1 reflections
+Householder k=1,vit.encoder.layer.5.intermediate.dense,768,6e-06,1 reflections
+Householder k=1,vit.encoder.layer.5.output.dense,3072,0.000108,1 reflections
+Householder k=1,vit.encoder.layer.6.intermediate.dense,768,6e-06,1 reflections
+Householder k=1,vit.encoder.layer.6.output.dense,3072,0.000113,1 reflections
+Householder k=1,vit.encoder.layer.7.intermediate.dense,768,6e-06,1 reflections
+Householder k=1,vit.encoder.layer.7.output.dense,3072,0.000114,1 reflections
+Householder k=1,vit.encoder.layer.8.intermediate.dense,768,6e-06,1 reflections
+Householder k=1,vit.encoder.layer.8.output.dense,3072,0.000113,1 reflections
+Householder k=1,vit.encoder.layer.9.intermediate.dense,768,6e-06,1 reflections
+Householder k=1,vit.encoder.layer.9.output.dense,3072,0.000111,1 reflections
+Householder k=1,vit.encoder.layer.10.intermediate.dense,768,6e-06,1 reflections
+Householder k=1,vit.encoder.layer.10.output.dense,3072,0.000114,1 reflections
+Householder k=1,vit.encoder.layer.11.intermediate.dense,768,6e-06,1 reflections
+Householder k=1,vit.encoder.layer.11.output.dense,3072,0.000115,1 reflections
+Householder k=8,vit.encoder.layer.0.intermediate.dense,768,6e-06,8 reflections
+Householder k=8,vit.encoder.layer.0.output.dense,3072,3.5e-05,8 reflections
+Householder k=8,vit.encoder.layer.1.intermediate.dense,768,6e-06,8 reflections
+Householder k=8,vit.encoder.layer.1.output.dense,3072,3.5e-05,8 reflections
+Householder k=8,vit.encoder.layer.2.intermediate.dense,768,6e-06,8 reflections
+Householder k=8,vit.encoder.layer.2.output.dense,3072,3.5e-05,8 reflections
+Householder k=8,vit.encoder.layer.3.intermediate.dense,768,6e-06,8 reflections
+Householder k=8,vit.encoder.layer.3.output.dense,3072,3.5e-05,8 reflections
+Householder k=8,vit.encoder.layer.4.intermediate.dense,768,6e-06,8 reflections
+Householder k=8,vit.encoder.layer.4.output.dense,3072,3.5e-05,8 reflections
+Householder k=8,vit.encoder.layer.5.intermediate.dense,768,6e-06,8 reflections
+Householder k=8,vit.encoder.layer.5.output.dense,3072,3.5e-05,8 reflections
+Householder k=8,vit.encoder.layer.6.intermediate.dense,768,6e-06,8 reflections
+Householder k=8,vit.encoder.layer.6.output.dense,3072,3.4e-05,8 reflections
+Householder k=8,vit.encoder.layer.7.intermediate.dense,768,6e-06,8 reflections
+Householder k=8,vit.encoder.layer.7.output.dense,3072,3.5e-05,8 reflections
+Householder k=8,vit.encoder.layer.8.intermediate.dense,768,6e-06,8 reflections
+Householder k=8,vit.encoder.layer.8.output.dense,3072,3.4e-05,8 reflections
+Householder k=8,vit.encoder.layer.9.intermediate.dense,768,6e-06,8 reflections
+Householder k=8,vit.encoder.layer.9.output.dense,3072,3.5e-05,8 reflections
+Householder k=8,vit.encoder.layer.10.intermediate.dense,768,6e-06,8 reflections
+Householder k=8,vit.encoder.layer.10.output.dense,3072,3.5e-05,8 reflections
+Householder k=8,vit.encoder.layer.11.intermediate.dense,768,6e-06,8 reflections
+Householder k=8,vit.encoder.layer.11.output.dense,3072,3.5e-05,8 reflections
+Householder k=64,vit.encoder.layer.0.intermediate.dense,768,1.1e-05,64 reflections
+Householder k=64,vit.encoder.layer.0.output.dense,3072,3.5e-05,64 reflections
+Householder k=64,vit.encoder.layer.1.intermediate.dense,768,1e-05,64 reflections
+Householder k=64,vit.encoder.layer.1.output.dense,3072,3.5e-05,64 reflections
+Householder k=64,vit.encoder.layer.2.intermediate.dense,768,1.1e-05,64 reflections
+Householder k=64,vit.encoder.layer.2.output.dense,3072,3.4e-05,64 reflections
+Householder k=64,vit.encoder.layer.3.intermediate.dense,768,1.1e-05,64 reflections
+Householder k=64,vit.encoder.layer.3.output.dense,3072,3.5e-05,64 reflections
+Householder k=64,vit.encoder.layer.4.intermediate.dense,768,1.1e-05,64 reflections
+Householder k=64,vit.encoder.layer.4.output.dense,3072,3.4e-05,64 reflections
+Householder k=64,vit.encoder.layer.5.intermediate.dense,768,1.1e-05,64 reflections
+Householder k=64,vit.encoder.layer.5.output.dense,3072,3.5e-05,64 reflections
+Householder k=64,vit.encoder.layer.6.intermediate.dense,768,1.1e-05,64 reflections
+Householder k=64,vit.encoder.layer.6.output.dense,3072,3.5e-05,64 reflections
+Householder k=64,vit.encoder.layer.7.intermediate.dense,768,1.1e-05,64 reflections
+Householder k=64,vit.encoder.layer.7.output.dense,3072,3.5e-05,64 reflections
+Householder k=64,vit.encoder.layer.8.intermediate.dense,768,1e-05,64 reflections
+Householder k=64,vit.encoder.layer.8.output.dense,3072,3.5e-05,64 reflections
+Householder k=64,vit.encoder.layer.9.intermediate.dense,768,1.1e-05,64 reflections
+Householder k=64,vit.encoder.layer.9.output.dense,3072,3.5e-05,64 reflections
+Householder k=64,vit.encoder.layer.10.intermediate.dense,768,1.1e-05,64 reflections
+Householder k=64,vit.encoder.layer.10.output.dense,3072,3.5e-05,64 reflections
+Householder k=64,vit.encoder.layer.11.intermediate.dense,768,1e-05,64 reflections
+Householder k=64,vit.encoder.layer.11.output.dense,3072,3.5e-05,64 reflections
+Householder k=d,vit.encoder.layer.0.intermediate.dense,768,3.1e-05,768 reflections
+Householder k=d,vit.encoder.layer.0.output.dense,3072,0.000132,3072 reflections
+Householder k=d,vit.encoder.layer.1.intermediate.dense,768,3.1e-05,768 reflections
+Householder k=d,vit.encoder.layer.1.output.dense,3072,0.000132,3072 reflections
+Householder k=d,vit.encoder.layer.2.intermediate.dense,768,3.1e-05,768 reflections
+Householder k=d,vit.encoder.layer.2.output.dense,3072,0.000132,3072 reflections
+Householder k=d,vit.encoder.layer.3.intermediate.dense,768,3.1e-05,768 reflections
+Householder k=d,vit.encoder.layer.3.output.dense,3072,0.000133,3072 reflections
+Householder k=d,vit.encoder.layer.4.intermediate.dense,768,3.1e-05,768 reflections
+Householder k=d,vit.encoder.layer.4.output.dense,3072,0.000132,3072 reflections
+Householder k=d,vit.encoder.layer.5.intermediate.dense,768,3.1e-05,768 reflections
+Householder k=d,vit.encoder.layer.5.output.dense,3072,0.000132,3072 reflections
+Householder k=d,vit.encoder.layer.6.intermediate.dense,768,3.1e-05,768 reflections
+Householder k=d,vit.encoder.layer.6.output.dense,3072,0.000133,3072 reflections
+Householder k=d,vit.encoder.layer.7.intermediate.dense,768,3.1e-05,768 reflections
+Householder k=d,vit.encoder.layer.7.output.dense,3072,0.000132,3072 reflections
+Householder k=d,vit.encoder.layer.8.intermediate.dense,768,3.1e-05,768 reflections
+Householder k=d,vit.encoder.layer.8.output.dense,3072,0.000132,3072 reflections
+Householder k=d,vit.encoder.layer.9.intermediate.dense,768,3.1e-05,768 reflections
+Householder k=d,vit.encoder.layer.9.output.dense,3072,0.000133,3072 reflections
+Householder k=d,vit.encoder.layer.10.intermediate.dense,768,3.1e-05,768 reflections
+Householder k=d,vit.encoder.layer.10.output.dense,3072,0.000132,3072 reflections
+Householder k=d,vit.encoder.layer.11.intermediate.dense,768,3.1e-05,768 reflections
+Householder k=d,vit.encoder.layer.11.output.dense,3072,0.000132,3072 reflections
+Cayley random,vit.encoder.layer.0.intermediate.dense,768,2.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.0.output.dense,3072,6.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.1.intermediate.dense,768,2.4e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.1.output.dense,3072,6.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.2.intermediate.dense,768,2.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.2.output.dense,3072,6.2e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.3.intermediate.dense,768,2.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.3.output.dense,3072,6.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.4.intermediate.dense,768,2.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.4.output.dense,3072,6.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.5.intermediate.dense,768,2.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.5.output.dense,3072,6.2e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.6.intermediate.dense,768,2.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.6.output.dense,3072,6.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.7.intermediate.dense,768,2.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.7.output.dense,3072,6.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.8.intermediate.dense,768,2.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.8.output.dense,3072,6.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.9.intermediate.dense,768,2.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.9.output.dense,3072,6.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.10.intermediate.dense,768,2.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.10.output.dense,3072,6.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.11.intermediate.dense,768,2.3e-05,Cayley of random skew
+Cayley random,vit.encoder.layer.11.output.dense,3072,6.3e-05,Cayley of random skew
+PCA rotation (data-aware),vit.encoder.layer.0.intermediate.dense,768,3.5e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.0.output.dense,3072,0.000114,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.1.intermediate.dense,768,3.9e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.1.output.dense,3072,0.000121,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.2.intermediate.dense,768,4.2e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.2.output.dense,3072,0.000122,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.3.intermediate.dense,768,4.2e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.3.output.dense,3072,0.000117,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.4.intermediate.dense,768,4.1e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.4.output.dense,3072,0.000105,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.5.intermediate.dense,768,4.1e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.5.output.dense,3072,8.9e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.6.intermediate.dense,768,4.1e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.6.output.dense,3072,8.9e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.7.intermediate.dense,768,4.2e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.7.output.dense,3072,0.000114,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.8.intermediate.dense,768,4.1e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.8.output.dense,3072,0.000116,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.9.intermediate.dense,768,4.2e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.9.output.dense,3072,0.000107,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.10.intermediate.dense,768,4.2e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.10.output.dense,3072,0.000104,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.11.intermediate.dense,768,4.1e-05,eigenbasis of activation covariance
+PCA rotation (data-aware),vit.encoder.layer.11.output.dense,3072,0.0001,eigenbasis of activation covariance
+ICA orthogonalized (data-aware),vit.encoder.layer.0.intermediate.dense,768,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.0.output.dense,3072,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.1.intermediate.dense,768,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.1.output.dense,3072,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.2.intermediate.dense,768,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.2.output.dense,3072,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.3.intermediate.dense,768,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.3.output.dense,3072,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.4.intermediate.dense,768,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.4.output.dense,3072,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.5.intermediate.dense,768,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.5.output.dense,3072,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.6.intermediate.dense,768,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.6.output.dense,3072,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.7.intermediate.dense,768,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.7.output.dense,3072,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.8.intermediate.dense,768,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.8.output.dense,3072,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.9.intermediate.dense,768,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.9.output.dense,3072,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.10.intermediate.dense,768,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.10.output.dense,3072,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.11.intermediate.dense,768,-1.0,sklearn not available — skipped
+ICA orthogonalized (data-aware),vit.encoder.layer.11.output.dense,3072,-1.0,sklearn not available — skipped

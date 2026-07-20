@@ -1,0 +1,9 @@
+Backbone,Recipe,Model_ID,Bit_Config,FP32,Std_PTQ,RoViT,Boost
+DINOv2-Base (linear head),self-distillation (DINOv2),facebook/dinov2-base-imagenet1k-1-layer,W6A6,84.26,0.17,75.35,75.18
+DINOv2-Base (linear head),self-distillation (DINOv2),facebook/dinov2-base-imagenet1k-1-layer,W4A4,84.26,0.1,0.09,-0.01
+BEiT-Base,masked image modeling (BEiT),microsoft/beit-base-patch16-224,W6A6,84.54,0.11,81.64,81.52
+BEiT-Base,masked image modeling (BEiT),microsoft/beit-base-patch16-224,W4A4,84.54,0.11,0.19,0.08
+EVA02-Base,MIM + EVA-CLIP teacher,eva02_base_patch14_224.mim_in22k_ft_in1k,ERROR,,,,
+CLIP ViT-B/16 (zero-shot),contrastive image-text (CLIP),openai/clip-vit-base-patch16,W6A6,64.55,0.14,58.58,58.44
+CLIP ViT-B/16 (zero-shot),contrastive image-text (CLIP),openai/clip-vit-base-patch16,W4A4,64.55,0.09,0.14,0.05
+SigLIP-Base (zero-shot),sigmoid contrastive (SigLIP),google/siglip-base-patch16-224,ERROR,,,,

@@ -1,0 +1,5 @@
+model,bits,top1
+google/vit-base-patch16-224,W6A6,79.62
+google/vit-base-patch16-224,W4A4,0.92
+facebook/deit-small-patch16-224,W6A6,67.98
+facebook/deit-small-patch16-224,W4A4,0.35

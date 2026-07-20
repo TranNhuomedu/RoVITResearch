@@ -1,0 +1,15 @@
+Bit_Config,Targeting,Layers_Rotated,Top1_Acc
+W6A6,attention_only,48,54.91
+W6A6,mlp_only,24,79.84
+W6A6,all,73,80.2
+W6A6,mlp_first6,12,78.19
+W6A6,mlp_last6,12,60.81
+W6A6,all_first6,36,78.43
+W6A6,all_last6,36,61.47
+W6A6,mlp_blocks_0_3,8,72.77
+W6A6,mlp_blocks_4_7,8,71.64
+W6A6,mlp_blocks_8_11,8,55.03
+W4A4,mlp_only,24,26.48
+W4A4,all,73,59.67
+W4A4,mlp_first6,12,9.6
+W4A4,mlp_last6,12,0.1

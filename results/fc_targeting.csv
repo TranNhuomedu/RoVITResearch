@@ -1,0 +1,5 @@
+model,bits,target,rotated_layers,seed,top1
+google/vit-base-patch16-224,W6A6,fc1,12,42,57.96
+google/vit-base-patch16-224,W6A6,fc2,12,42,79.35
+google/vit-base-patch16-224,W4A4,fc1,12,42,0.15
+google/vit-base-patch16-224,W4A4,fc2,12,42,0.14

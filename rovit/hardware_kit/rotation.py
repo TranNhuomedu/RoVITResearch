@@ -1,3 +1,11 @@
+"""Rotation-matrix construction.
+
+All matrices are drawn on CPU from a single torch.Generator seeded once per
+run, so (i) every target layer receives an independent matrix, and (ii) the
+full set of rotations is reproducible from one integer seed regardless of
+GPU model. The generator is advanced in named_modules() order.
+"""
+
 import torch
 
 KINDS = ("identity", "gaussian", "householder", "hadamard", "qr")

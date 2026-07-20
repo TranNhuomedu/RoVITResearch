@@ -1,0 +1,2 @@
+model,bits,rounding_only_top1
+google/vit-base-patch16-224,W4A4,0.16

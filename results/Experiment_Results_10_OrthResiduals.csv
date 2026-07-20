@@ -1,0 +1,577 @@
+Config,Layer,d,orth_residual
+QR of Gaussian (baseline/Haar),vit.encoder.layer.0.intermediate.dense,768,1.965e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.0.output.dense,3072,5.928e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.1.intermediate.dense,768,1.965e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.1.output.dense,3072,5.936e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.2.intermediate.dense,768,1.95e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.2.output.dense,3072,5.923e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.3.intermediate.dense,768,1.957e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.3.output.dense,3072,5.914e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.4.intermediate.dense,768,1.942e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.4.output.dense,3072,5.925e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.5.intermediate.dense,768,1.962e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.5.output.dense,3072,5.913e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.6.intermediate.dense,768,1.944e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.6.output.dense,3072,5.932e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.7.intermediate.dense,768,1.963e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.7.output.dense,3072,5.926e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.8.intermediate.dense,768,1.95e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.8.output.dense,3072,5.914e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.9.intermediate.dense,768,1.95e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.9.output.dense,3072,5.898e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.10.intermediate.dense,768,1.961e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.10.output.dense,3072,5.932e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.11.intermediate.dense,768,1.944e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.11.output.dense,3072,5.918e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.0.intermediate.dense,768,1.966e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.0.output.dense,3072,5.926e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.1.intermediate.dense,768,1.953e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.1.output.dense,3072,5.903e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.2.intermediate.dense,768,1.94e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.2.output.dense,3072,5.908e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.3.intermediate.dense,768,1.956e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.3.output.dense,3072,5.918e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.4.intermediate.dense,768,1.952e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.4.output.dense,3072,5.904e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.5.intermediate.dense,768,1.945e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.5.output.dense,3072,5.902e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.6.intermediate.dense,768,1.95e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.6.output.dense,3072,5.906e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.7.intermediate.dense,768,1.935e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.7.output.dense,3072,5.899e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.8.intermediate.dense,768,1.952e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.8.output.dense,3072,5.912e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.9.intermediate.dense,768,1.945e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.9.output.dense,3072,5.931e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.10.intermediate.dense,768,1.949e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.10.output.dense,3072,5.905e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.11.intermediate.dense,768,1.94e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.11.output.dense,3072,5.915e-05
+QR of Rademacher(±1),vit.encoder.layer.0.intermediate.dense,768,1.946e-05
+QR of Rademacher(±1),vit.encoder.layer.0.output.dense,3072,5.903e-05
+QR of Rademacher(±1),vit.encoder.layer.1.intermediate.dense,768,1.939e-05
+QR of Rademacher(±1),vit.encoder.layer.1.output.dense,3072,5.917e-05
+QR of Rademacher(±1),vit.encoder.layer.2.intermediate.dense,768,1.958e-05
+QR of Rademacher(±1),vit.encoder.layer.2.output.dense,3072,5.923e-05
+QR of Rademacher(±1),vit.encoder.layer.3.intermediate.dense,768,1.944e-05
+QR of Rademacher(±1),vit.encoder.layer.3.output.dense,3072,5.912e-05
+QR of Rademacher(±1),vit.encoder.layer.4.intermediate.dense,768,1.954e-05
+QR of Rademacher(±1),vit.encoder.layer.4.output.dense,3072,5.898e-05
+QR of Rademacher(±1),vit.encoder.layer.5.intermediate.dense,768,1.947e-05
+QR of Rademacher(±1),vit.encoder.layer.5.output.dense,3072,5.902e-05
+QR of Rademacher(±1),vit.encoder.layer.6.intermediate.dense,768,1.956e-05
+QR of Rademacher(±1),vit.encoder.layer.6.output.dense,3072,5.919e-05
+QR of Rademacher(±1),vit.encoder.layer.7.intermediate.dense,768,1.954e-05
+QR of Rademacher(±1),vit.encoder.layer.7.output.dense,3072,5.912e-05
+QR of Rademacher(±1),vit.encoder.layer.8.intermediate.dense,768,1.944e-05
+QR of Rademacher(±1),vit.encoder.layer.8.output.dense,3072,5.932e-05
+QR of Rademacher(±1),vit.encoder.layer.9.intermediate.dense,768,1.963e-05
+QR of Rademacher(±1),vit.encoder.layer.9.output.dense,3072,5.907e-05
+QR of Rademacher(±1),vit.encoder.layer.10.intermediate.dense,768,1.948e-05
+QR of Rademacher(±1),vit.encoder.layer.10.output.dense,3072,5.91e-05
+QR of Rademacher(±1),vit.encoder.layer.11.intermediate.dense,768,1.943e-05
+QR of Rademacher(±1),vit.encoder.layer.11.output.dense,3072,5.919e-05
+QR of column-normalized Gaussian,vit.encoder.layer.0.intermediate.dense,768,1.963e-05
+QR of column-normalized Gaussian,vit.encoder.layer.0.output.dense,3072,5.943e-05
+QR of column-normalized Gaussian,vit.encoder.layer.1.intermediate.dense,768,1.952e-05
+QR of column-normalized Gaussian,vit.encoder.layer.1.output.dense,3072,5.915e-05
+QR of column-normalized Gaussian,vit.encoder.layer.2.intermediate.dense,768,1.941e-05
+QR of column-normalized Gaussian,vit.encoder.layer.2.output.dense,3072,5.932e-05
+QR of column-normalized Gaussian,vit.encoder.layer.3.intermediate.dense,768,1.957e-05
+QR of column-normalized Gaussian,vit.encoder.layer.3.output.dense,3072,5.92e-05
+QR of column-normalized Gaussian,vit.encoder.layer.4.intermediate.dense,768,1.959e-05
+QR of column-normalized Gaussian,vit.encoder.layer.4.output.dense,3072,5.913e-05
+QR of column-normalized Gaussian,vit.encoder.layer.5.intermediate.dense,768,1.948e-05
+QR of column-normalized Gaussian,vit.encoder.layer.5.output.dense,3072,5.924e-05
+QR of column-normalized Gaussian,vit.encoder.layer.6.intermediate.dense,768,1.97e-05
+QR of column-normalized Gaussian,vit.encoder.layer.6.output.dense,3072,5.925e-05
+QR of column-normalized Gaussian,vit.encoder.layer.7.intermediate.dense,768,1.942e-05
+QR of column-normalized Gaussian,vit.encoder.layer.7.output.dense,3072,5.904e-05
+QR of column-normalized Gaussian,vit.encoder.layer.8.intermediate.dense,768,1.963e-05
+QR of column-normalized Gaussian,vit.encoder.layer.8.output.dense,3072,5.929e-05
+QR of column-normalized Gaussian,vit.encoder.layer.9.intermediate.dense,768,1.937e-05
+QR of column-normalized Gaussian,vit.encoder.layer.9.output.dense,3072,5.895e-05
+QR of column-normalized Gaussian,vit.encoder.layer.10.intermediate.dense,768,1.943e-05
+QR of column-normalized Gaussian,vit.encoder.layer.10.output.dense,3072,5.919e-05
+QR of column-normalized Gaussian,vit.encoder.layer.11.intermediate.dense,768,1.934e-05
+QR of column-normalized Gaussian,vit.encoder.layer.11.output.dense,3072,5.913e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.0.intermediate.dense,768,1.954e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.0.output.dense,3072,5.969e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.1.intermediate.dense,768,1.962e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.1.output.dense,3072,5.934e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.2.intermediate.dense,768,1.96e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.2.output.dense,3072,5.938e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.3.intermediate.dense,768,1.972e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.3.output.dense,3072,5.973e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.4.intermediate.dense,768,1.931e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.4.output.dense,3072,5.936e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.5.intermediate.dense,768,1.96e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.5.output.dense,3072,5.943e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.6.intermediate.dense,768,1.94e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.6.output.dense,3072,5.959e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.7.intermediate.dense,768,1.939e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.7.output.dense,3072,5.946e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.8.intermediate.dense,768,1.968e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.8.output.dense,3072,5.932e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.9.intermediate.dense,768,1.972e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.9.output.dense,3072,5.941e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.10.intermediate.dense,768,1.958e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.10.output.dense,3072,5.935e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.11.intermediate.dense,768,1.948e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.11.output.dense,3072,5.94e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.0.intermediate.dense,768,1.96e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.0.output.dense,3072,5.934e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.1.intermediate.dense,768,1.96e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.1.output.dense,3072,5.932e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.2.intermediate.dense,768,1.945e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.2.output.dense,3072,5.918e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.3.intermediate.dense,768,1.959e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.3.output.dense,3072,5.94e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.4.intermediate.dense,768,1.952e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.4.output.dense,3072,5.922e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.5.intermediate.dense,768,1.962e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.5.output.dense,3072,5.911e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.6.intermediate.dense,768,1.959e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.6.output.dense,3072,5.915e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.7.intermediate.dense,768,1.949e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.7.output.dense,3072,5.946e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.8.intermediate.dense,768,1.965e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.8.output.dense,3072,5.916e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.9.intermediate.dense,768,1.963e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.9.output.dense,3072,5.935e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.10.intermediate.dense,768,1.941e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.10.output.dense,3072,5.918e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.11.intermediate.dense,768,1.962e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.11.output.dense,3072,5.929e-05
+Omega stored FP16,vit.encoder.layer.0.intermediate.dense,768,0.0081436
+Omega stored FP16,vit.encoder.layer.0.output.dense,3072,0.01629278
+Omega stored FP16,vit.encoder.layer.1.intermediate.dense,768,0.00816028
+Omega stored FP16,vit.encoder.layer.1.output.dense,3072,0.01629248
+Omega stored FP16,vit.encoder.layer.2.intermediate.dense,768,0.00815523
+Omega stored FP16,vit.encoder.layer.2.output.dense,3072,0.01630077
+Omega stored FP16,vit.encoder.layer.3.intermediate.dense,768,0.00815974
+Omega stored FP16,vit.encoder.layer.3.output.dense,3072,0.01629153
+Omega stored FP16,vit.encoder.layer.4.intermediate.dense,768,0.00814379
+Omega stored FP16,vit.encoder.layer.4.output.dense,3072,0.01629291
+Omega stored FP16,vit.encoder.layer.5.intermediate.dense,768,0.00815833
+Omega stored FP16,vit.encoder.layer.5.output.dense,3072,0.01629422
+Omega stored FP16,vit.encoder.layer.6.intermediate.dense,768,0.008165
+Omega stored FP16,vit.encoder.layer.6.output.dense,3072,0.01629921
+Omega stored FP16,vit.encoder.layer.7.intermediate.dense,768,0.00816552
+Omega stored FP16,vit.encoder.layer.7.output.dense,3072,0.0162915
+Omega stored FP16,vit.encoder.layer.8.intermediate.dense,768,0.00815415
+Omega stored FP16,vit.encoder.layer.8.output.dense,3072,0.016295
+Omega stored FP16,vit.encoder.layer.9.intermediate.dense,768,0.00814804
+Omega stored FP16,vit.encoder.layer.9.output.dense,3072,0.01627848
+Omega stored FP16,vit.encoder.layer.10.intermediate.dense,768,0.00813445
+Omega stored FP16,vit.encoder.layer.10.output.dense,3072,0.01629786
+Omega stored FP16,vit.encoder.layer.11.intermediate.dense,768,0.0081602
+Omega stored FP16,vit.encoder.layer.11.output.dense,3072,0.01628775
+Omega stored BF16,vit.encoder.layer.0.intermediate.dense,768,0.0652726
+Omega stored BF16,vit.encoder.layer.0.output.dense,3072,0.13032918
+Omega stored BF16,vit.encoder.layer.1.intermediate.dense,768,0.065138
+Omega stored BF16,vit.encoder.layer.1.output.dense,3072,0.13040952
+Omega stored BF16,vit.encoder.layer.2.intermediate.dense,768,0.06511115
+Omega stored BF16,vit.encoder.layer.2.output.dense,3072,0.13041967
+Omega stored BF16,vit.encoder.layer.3.intermediate.dense,768,0.06529398
+Omega stored BF16,vit.encoder.layer.3.output.dense,3072,0.13039695
+Omega stored BF16,vit.encoder.layer.4.intermediate.dense,768,0.06518928
+Omega stored BF16,vit.encoder.layer.4.output.dense,3072,0.1303317
+Omega stored BF16,vit.encoder.layer.5.intermediate.dense,768,0.06518485
+Omega stored BF16,vit.encoder.layer.5.output.dense,3072,0.13035743
+Omega stored BF16,vit.encoder.layer.6.intermediate.dense,768,0.06534148
+Omega stored BF16,vit.encoder.layer.6.output.dense,3072,0.13033631
+Omega stored BF16,vit.encoder.layer.7.intermediate.dense,768,0.06526208
+Omega stored BF16,vit.encoder.layer.7.output.dense,3072,0.13035463
+Omega stored BF16,vit.encoder.layer.8.intermediate.dense,768,0.06521425
+Omega stored BF16,vit.encoder.layer.8.output.dense,3072,0.1302754
+Omega stored BF16,vit.encoder.layer.9.intermediate.dense,768,0.06518375
+Omega stored BF16,vit.encoder.layer.9.output.dense,3072,0.13037223
+Omega stored BF16,vit.encoder.layer.10.intermediate.dense,768,0.06529245
+Omega stored BF16,vit.encoder.layer.10.output.dense,3072,0.13032426
+Omega stored BF16,vit.encoder.layer.11.intermediate.dense,768,0.06533547
+Omega stored BF16,vit.encoder.layer.11.output.dense,3072,0.13036841
+Block-QR b=64,vit.encoder.layer.0.intermediate.dense,768,1.488e-05
+Block-QR b=64,vit.encoder.layer.0.output.dense,3072,2.976e-05
+Block-QR b=64,vit.encoder.layer.1.intermediate.dense,768,1.505e-05
+Block-QR b=64,vit.encoder.layer.1.output.dense,3072,2.981e-05
+Block-QR b=64,vit.encoder.layer.2.intermediate.dense,768,1.482e-05
+Block-QR b=64,vit.encoder.layer.2.output.dense,3072,2.998e-05
+Block-QR b=64,vit.encoder.layer.3.intermediate.dense,768,1.495e-05
+Block-QR b=64,vit.encoder.layer.3.output.dense,3072,3.008e-05
+Block-QR b=64,vit.encoder.layer.4.intermediate.dense,768,1.475e-05
+Block-QR b=64,vit.encoder.layer.4.output.dense,3072,2.976e-05
+Block-QR b=64,vit.encoder.layer.5.intermediate.dense,768,1.494e-05
+Block-QR b=64,vit.encoder.layer.5.output.dense,3072,3.027e-05
+Block-QR b=64,vit.encoder.layer.6.intermediate.dense,768,1.479e-05
+Block-QR b=64,vit.encoder.layer.6.output.dense,3072,2.997e-05
+Block-QR b=64,vit.encoder.layer.7.intermediate.dense,768,1.489e-05
+Block-QR b=64,vit.encoder.layer.7.output.dense,3072,3.01e-05
+Block-QR b=64,vit.encoder.layer.8.intermediate.dense,768,1.493e-05
+Block-QR b=64,vit.encoder.layer.8.output.dense,3072,3.027e-05
+Block-QR b=64,vit.encoder.layer.9.intermediate.dense,768,1.489e-05
+Block-QR b=64,vit.encoder.layer.9.output.dense,3072,2.986e-05
+Block-QR b=64,vit.encoder.layer.10.intermediate.dense,768,1.507e-05
+Block-QR b=64,vit.encoder.layer.10.output.dense,3072,3.015e-05
+Block-QR b=64,vit.encoder.layer.11.intermediate.dense,768,1.516e-05
+Block-QR b=64,vit.encoder.layer.11.output.dense,3072,3.016e-05
+Block-QR b=128,vit.encoder.layer.0.intermediate.dense,768,2.105e-05
+Block-QR b=128,vit.encoder.layer.0.output.dense,3072,4.185e-05
+Block-QR b=128,vit.encoder.layer.1.intermediate.dense,768,2.083e-05
+Block-QR b=128,vit.encoder.layer.1.output.dense,3072,4.216e-05
+Block-QR b=128,vit.encoder.layer.2.intermediate.dense,768,2.122e-05
+Block-QR b=128,vit.encoder.layer.2.output.dense,3072,4.196e-05
+Block-QR b=128,vit.encoder.layer.3.intermediate.dense,768,2.077e-05
+Block-QR b=128,vit.encoder.layer.3.output.dense,3072,4.194e-05
+Block-QR b=128,vit.encoder.layer.4.intermediate.dense,768,2.077e-05
+Block-QR b=128,vit.encoder.layer.4.output.dense,3072,4.216e-05
+Block-QR b=128,vit.encoder.layer.5.intermediate.dense,768,2.074e-05
+Block-QR b=128,vit.encoder.layer.5.output.dense,3072,4.199e-05
+Block-QR b=128,vit.encoder.layer.6.intermediate.dense,768,2.071e-05
+Block-QR b=128,vit.encoder.layer.6.output.dense,3072,4.196e-05
+Block-QR b=128,vit.encoder.layer.7.intermediate.dense,768,2.1e-05
+Block-QR b=128,vit.encoder.layer.7.output.dense,3072,4.189e-05
+Block-QR b=128,vit.encoder.layer.8.intermediate.dense,768,2.067e-05
+Block-QR b=128,vit.encoder.layer.8.output.dense,3072,4.202e-05
+Block-QR b=128,vit.encoder.layer.9.intermediate.dense,768,2.096e-05
+Block-QR b=128,vit.encoder.layer.9.output.dense,3072,4.192e-05
+Block-QR b=128,vit.encoder.layer.10.intermediate.dense,768,2.114e-05
+Block-QR b=128,vit.encoder.layer.10.output.dense,3072,4.172e-05
+Block-QR b=128,vit.encoder.layer.11.intermediate.dense,768,2.088e-05
+Block-QR b=128,vit.encoder.layer.11.output.dense,3072,4.229e-05
+Block-QR b=256,vit.encoder.layer.0.intermediate.dense,768,1.967e-05
+Block-QR b=256,vit.encoder.layer.0.output.dense,3072,4.063e-05
+Block-QR b=256,vit.encoder.layer.1.intermediate.dense,768,1.986e-05
+Block-QR b=256,vit.encoder.layer.1.output.dense,3072,4.059e-05
+Block-QR b=256,vit.encoder.layer.2.intermediate.dense,768,1.994e-05
+Block-QR b=256,vit.encoder.layer.2.output.dense,3072,4.063e-05
+Block-QR b=256,vit.encoder.layer.3.intermediate.dense,768,1.999e-05
+Block-QR b=256,vit.encoder.layer.3.output.dense,3072,4.058e-05
+Block-QR b=256,vit.encoder.layer.4.intermediate.dense,768,1.998e-05
+Block-QR b=256,vit.encoder.layer.4.output.dense,3072,4.084e-05
+Block-QR b=256,vit.encoder.layer.5.intermediate.dense,768,2.009e-05
+Block-QR b=256,vit.encoder.layer.5.output.dense,3072,4.046e-05
+Block-QR b=256,vit.encoder.layer.6.intermediate.dense,768,2.01e-05
+Block-QR b=256,vit.encoder.layer.6.output.dense,3072,4.02e-05
+Block-QR b=256,vit.encoder.layer.7.intermediate.dense,768,1.997e-05
+Block-QR b=256,vit.encoder.layer.7.output.dense,3072,4.045e-05
+Block-QR b=256,vit.encoder.layer.8.intermediate.dense,768,2.008e-05
+Block-QR b=256,vit.encoder.layer.8.output.dense,3072,4.047e-05
+Block-QR b=256,vit.encoder.layer.9.intermediate.dense,768,2.004e-05
+Block-QR b=256,vit.encoder.layer.9.output.dense,3072,4.067e-05
+Block-QR b=256,vit.encoder.layer.10.intermediate.dense,768,1.997e-05
+Block-QR b=256,vit.encoder.layer.10.output.dense,3072,4.054e-05
+Block-QR b=256,vit.encoder.layer.11.intermediate.dense,768,2.007e-05
+Block-QR b=256,vit.encoder.layer.11.output.dense,3072,4.05e-05
+Block-QR b=384,vit.encoder.layer.0.intermediate.dense,768,1.964e-05
+Block-QR b=384,vit.encoder.layer.0.output.dense,3072,4.083e-05
+Block-QR b=384,vit.encoder.layer.1.intermediate.dense,768,1.975e-05
+Block-QR b=384,vit.encoder.layer.1.output.dense,3072,4.068e-05
+Block-QR b=384,vit.encoder.layer.2.intermediate.dense,768,1.944e-05
+Block-QR b=384,vit.encoder.layer.2.output.dense,3072,4.089e-05
+Block-QR b=384,vit.encoder.layer.3.intermediate.dense,768,1.938e-05
+Block-QR b=384,vit.encoder.layer.3.output.dense,3072,4.084e-05
+Block-QR b=384,vit.encoder.layer.4.intermediate.dense,768,1.929e-05
+Block-QR b=384,vit.encoder.layer.4.output.dense,3072,4.061e-05
+Block-QR b=384,vit.encoder.layer.5.intermediate.dense,768,1.943e-05
+Block-QR b=384,vit.encoder.layer.5.output.dense,3072,4.074e-05
+Block-QR b=384,vit.encoder.layer.6.intermediate.dense,768,1.949e-05
+Block-QR b=384,vit.encoder.layer.6.output.dense,3072,4.078e-05
+Block-QR b=384,vit.encoder.layer.7.intermediate.dense,768,1.938e-05
+Block-QR b=384,vit.encoder.layer.7.output.dense,3072,4.062e-05
+Block-QR b=384,vit.encoder.layer.8.intermediate.dense,768,1.948e-05
+Block-QR b=384,vit.encoder.layer.8.output.dense,3072,4.068e-05
+Block-QR b=384,vit.encoder.layer.9.intermediate.dense,768,1.943e-05
+Block-QR b=384,vit.encoder.layer.9.output.dense,3072,4.099e-05
+Block-QR b=384,vit.encoder.layer.10.intermediate.dense,768,1.971e-05
+Block-QR b=384,vit.encoder.layer.10.output.dense,3072,4.107e-05
+Block-QR b=384,vit.encoder.layer.11.intermediate.dense,768,1.953e-05
+Block-QR b=384,vit.encoder.layer.11.output.dense,3072,4.078e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.0.intermediate.dense,768,1.965e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.0.output.dense,3072,5.928e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.1.intermediate.dense,768,1.965e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.1.output.dense,3072,5.936e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.2.intermediate.dense,768,1.95e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.2.output.dense,3072,5.923e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.3.intermediate.dense,768,1.957e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.3.output.dense,3072,5.914e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.4.intermediate.dense,768,1.942e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.4.output.dense,3072,5.925e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.5.intermediate.dense,768,1.962e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.5.output.dense,3072,5.913e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.6.intermediate.dense,768,1.944e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.6.output.dense,3072,5.932e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.7.intermediate.dense,768,1.963e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.7.output.dense,3072,5.926e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.8.intermediate.dense,768,1.95e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.8.output.dense,3072,5.914e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.9.intermediate.dense,768,1.95e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.9.output.dense,3072,5.898e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.10.intermediate.dense,768,1.961e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.10.output.dense,3072,5.932e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.11.intermediate.dense,768,1.944e-05
+QR of Gaussian (baseline/Haar),vit.encoder.layer.11.output.dense,3072,5.918e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.0.intermediate.dense,768,1.966e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.0.output.dense,3072,5.926e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.1.intermediate.dense,768,1.953e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.1.output.dense,3072,5.903e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.2.intermediate.dense,768,1.94e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.2.output.dense,3072,5.908e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.3.intermediate.dense,768,1.956e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.3.output.dense,3072,5.918e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.4.intermediate.dense,768,1.952e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.4.output.dense,3072,5.904e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.5.intermediate.dense,768,1.945e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.5.output.dense,3072,5.902e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.6.intermediate.dense,768,1.95e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.6.output.dense,3072,5.906e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.7.intermediate.dense,768,1.935e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.7.output.dense,3072,5.899e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.8.intermediate.dense,768,1.952e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.8.output.dense,3072,5.912e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.9.intermediate.dense,768,1.945e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.9.output.dense,3072,5.931e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.10.intermediate.dense,768,1.949e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.10.output.dense,3072,5.905e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.11.intermediate.dense,768,1.94e-05
+"QR of Uniform(-1,1)",vit.encoder.layer.11.output.dense,3072,5.915e-05
+QR of Rademacher(±1),vit.encoder.layer.0.intermediate.dense,768,1.946e-05
+QR of Rademacher(±1),vit.encoder.layer.0.output.dense,3072,5.903e-05
+QR of Rademacher(±1),vit.encoder.layer.1.intermediate.dense,768,1.939e-05
+QR of Rademacher(±1),vit.encoder.layer.1.output.dense,3072,5.917e-05
+QR of Rademacher(±1),vit.encoder.layer.2.intermediate.dense,768,1.958e-05
+QR of Rademacher(±1),vit.encoder.layer.2.output.dense,3072,5.923e-05
+QR of Rademacher(±1),vit.encoder.layer.3.intermediate.dense,768,1.944e-05
+QR of Rademacher(±1),vit.encoder.layer.3.output.dense,3072,5.912e-05
+QR of Rademacher(±1),vit.encoder.layer.4.intermediate.dense,768,1.954e-05
+QR of Rademacher(±1),vit.encoder.layer.4.output.dense,3072,5.898e-05
+QR of Rademacher(±1),vit.encoder.layer.5.intermediate.dense,768,1.947e-05
+QR of Rademacher(±1),vit.encoder.layer.5.output.dense,3072,5.902e-05
+QR of Rademacher(±1),vit.encoder.layer.6.intermediate.dense,768,1.956e-05
+QR of Rademacher(±1),vit.encoder.layer.6.output.dense,3072,5.919e-05
+QR of Rademacher(±1),vit.encoder.layer.7.intermediate.dense,768,1.954e-05
+QR of Rademacher(±1),vit.encoder.layer.7.output.dense,3072,5.912e-05
+QR of Rademacher(±1),vit.encoder.layer.8.intermediate.dense,768,1.944e-05
+QR of Rademacher(±1),vit.encoder.layer.8.output.dense,3072,5.932e-05
+QR of Rademacher(±1),vit.encoder.layer.9.intermediate.dense,768,1.963e-05
+QR of Rademacher(±1),vit.encoder.layer.9.output.dense,3072,5.907e-05
+QR of Rademacher(±1),vit.encoder.layer.10.intermediate.dense,768,1.948e-05
+QR of Rademacher(±1),vit.encoder.layer.10.output.dense,3072,5.91e-05
+QR of Rademacher(±1),vit.encoder.layer.11.intermediate.dense,768,1.943e-05
+QR of Rademacher(±1),vit.encoder.layer.11.output.dense,3072,5.919e-05
+QR of column-normalized Gaussian,vit.encoder.layer.0.intermediate.dense,768,1.963e-05
+QR of column-normalized Gaussian,vit.encoder.layer.0.output.dense,3072,5.943e-05
+QR of column-normalized Gaussian,vit.encoder.layer.1.intermediate.dense,768,1.952e-05
+QR of column-normalized Gaussian,vit.encoder.layer.1.output.dense,3072,5.915e-05
+QR of column-normalized Gaussian,vit.encoder.layer.2.intermediate.dense,768,1.941e-05
+QR of column-normalized Gaussian,vit.encoder.layer.2.output.dense,3072,5.932e-05
+QR of column-normalized Gaussian,vit.encoder.layer.3.intermediate.dense,768,1.957e-05
+QR of column-normalized Gaussian,vit.encoder.layer.3.output.dense,3072,5.92e-05
+QR of column-normalized Gaussian,vit.encoder.layer.4.intermediate.dense,768,1.959e-05
+QR of column-normalized Gaussian,vit.encoder.layer.4.output.dense,3072,5.913e-05
+QR of column-normalized Gaussian,vit.encoder.layer.5.intermediate.dense,768,1.948e-05
+QR of column-normalized Gaussian,vit.encoder.layer.5.output.dense,3072,5.924e-05
+QR of column-normalized Gaussian,vit.encoder.layer.6.intermediate.dense,768,1.97e-05
+QR of column-normalized Gaussian,vit.encoder.layer.6.output.dense,3072,5.925e-05
+QR of column-normalized Gaussian,vit.encoder.layer.7.intermediate.dense,768,1.942e-05
+QR of column-normalized Gaussian,vit.encoder.layer.7.output.dense,3072,5.904e-05
+QR of column-normalized Gaussian,vit.encoder.layer.8.intermediate.dense,768,1.963e-05
+QR of column-normalized Gaussian,vit.encoder.layer.8.output.dense,3072,5.929e-05
+QR of column-normalized Gaussian,vit.encoder.layer.9.intermediate.dense,768,1.937e-05
+QR of column-normalized Gaussian,vit.encoder.layer.9.output.dense,3072,5.895e-05
+QR of column-normalized Gaussian,vit.encoder.layer.10.intermediate.dense,768,1.943e-05
+QR of column-normalized Gaussian,vit.encoder.layer.10.output.dense,3072,5.919e-05
+QR of column-normalized Gaussian,vit.encoder.layer.11.intermediate.dense,768,1.934e-05
+QR of column-normalized Gaussian,vit.encoder.layer.11.output.dense,3072,5.913e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.0.intermediate.dense,768,1.954e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.0.output.dense,3072,5.969e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.1.intermediate.dense,768,1.962e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.1.output.dense,3072,5.934e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.2.intermediate.dense,768,1.96e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.2.output.dense,3072,5.938e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.3.intermediate.dense,768,1.972e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.3.output.dense,3072,5.973e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.4.intermediate.dense,768,1.931e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.4.output.dense,3072,5.936e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.5.intermediate.dense,768,1.96e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.5.output.dense,3072,5.943e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.6.intermediate.dense,768,1.94e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.6.output.dense,3072,5.959e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.7.intermediate.dense,768,1.939e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.7.output.dense,3072,5.946e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.8.intermediate.dense,768,1.968e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.8.output.dense,3072,5.932e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.9.intermediate.dense,768,1.972e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.9.output.dense,3072,5.941e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.10.intermediate.dense,768,1.958e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.10.output.dense,3072,5.935e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.11.intermediate.dense,768,1.948e-05
+QR of sparse Gaussian d=0.1,vit.encoder.layer.11.output.dense,3072,5.94e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.0.intermediate.dense,768,1.96e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.0.output.dense,3072,5.934e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.1.intermediate.dense,768,1.96e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.1.output.dense,3072,5.932e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.2.intermediate.dense,768,1.945e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.2.output.dense,3072,5.918e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.3.intermediate.dense,768,1.959e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.3.output.dense,3072,5.94e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.4.intermediate.dense,768,1.952e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.4.output.dense,3072,5.922e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.5.intermediate.dense,768,1.962e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.5.output.dense,3072,5.911e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.6.intermediate.dense,768,1.959e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.6.output.dense,3072,5.915e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.7.intermediate.dense,768,1.949e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.7.output.dense,3072,5.946e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.8.intermediate.dense,768,1.965e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.8.output.dense,3072,5.916e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.9.intermediate.dense,768,1.963e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.9.output.dense,3072,5.935e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.10.intermediate.dense,768,1.941e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.10.output.dense,3072,5.918e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.11.intermediate.dense,768,1.962e-05
+QR of sparse Gaussian d=0.5,vit.encoder.layer.11.output.dense,3072,5.929e-05
+Omega stored FP16,vit.encoder.layer.0.intermediate.dense,768,0.0081436
+Omega stored FP16,vit.encoder.layer.0.output.dense,3072,0.01629278
+Omega stored FP16,vit.encoder.layer.1.intermediate.dense,768,0.00816028
+Omega stored FP16,vit.encoder.layer.1.output.dense,3072,0.01629248
+Omega stored FP16,vit.encoder.layer.2.intermediate.dense,768,0.00815523
+Omega stored FP16,vit.encoder.layer.2.output.dense,3072,0.01630077
+Omega stored FP16,vit.encoder.layer.3.intermediate.dense,768,0.00815974
+Omega stored FP16,vit.encoder.layer.3.output.dense,3072,0.01629153
+Omega stored FP16,vit.encoder.layer.4.intermediate.dense,768,0.00814379
+Omega stored FP16,vit.encoder.layer.4.output.dense,3072,0.01629291
+Omega stored FP16,vit.encoder.layer.5.intermediate.dense,768,0.00815833
+Omega stored FP16,vit.encoder.layer.5.output.dense,3072,0.01629422
+Omega stored FP16,vit.encoder.layer.6.intermediate.dense,768,0.008165
+Omega stored FP16,vit.encoder.layer.6.output.dense,3072,0.01629921
+Omega stored FP16,vit.encoder.layer.7.intermediate.dense,768,0.00816552
+Omega stored FP16,vit.encoder.layer.7.output.dense,3072,0.0162915
+Omega stored FP16,vit.encoder.layer.8.intermediate.dense,768,0.00815415
+Omega stored FP16,vit.encoder.layer.8.output.dense,3072,0.016295
+Omega stored FP16,vit.encoder.layer.9.intermediate.dense,768,0.00814804
+Omega stored FP16,vit.encoder.layer.9.output.dense,3072,0.01627848
+Omega stored FP16,vit.encoder.layer.10.intermediate.dense,768,0.00813445
+Omega stored FP16,vit.encoder.layer.10.output.dense,3072,0.01629786
+Omega stored FP16,vit.encoder.layer.11.intermediate.dense,768,0.0081602
+Omega stored FP16,vit.encoder.layer.11.output.dense,3072,0.01628775
+Omega stored BF16,vit.encoder.layer.0.intermediate.dense,768,0.0652726
+Omega stored BF16,vit.encoder.layer.0.output.dense,3072,0.13032918
+Omega stored BF16,vit.encoder.layer.1.intermediate.dense,768,0.065138
+Omega stored BF16,vit.encoder.layer.1.output.dense,3072,0.13040952
+Omega stored BF16,vit.encoder.layer.2.intermediate.dense,768,0.06511115
+Omega stored BF16,vit.encoder.layer.2.output.dense,3072,0.13041967
+Omega stored BF16,vit.encoder.layer.3.intermediate.dense,768,0.06529398
+Omega stored BF16,vit.encoder.layer.3.output.dense,3072,0.13039695
+Omega stored BF16,vit.encoder.layer.4.intermediate.dense,768,0.06518928
+Omega stored BF16,vit.encoder.layer.4.output.dense,3072,0.1303317
+Omega stored BF16,vit.encoder.layer.5.intermediate.dense,768,0.06518485
+Omega stored BF16,vit.encoder.layer.5.output.dense,3072,0.13035743
+Omega stored BF16,vit.encoder.layer.6.intermediate.dense,768,0.06534148
+Omega stored BF16,vit.encoder.layer.6.output.dense,3072,0.13033631
+Omega stored BF16,vit.encoder.layer.7.intermediate.dense,768,0.06526208
+Omega stored BF16,vit.encoder.layer.7.output.dense,3072,0.13035463
+Omega stored BF16,vit.encoder.layer.8.intermediate.dense,768,0.06521425
+Omega stored BF16,vit.encoder.layer.8.output.dense,3072,0.1302754
+Omega stored BF16,vit.encoder.layer.9.intermediate.dense,768,0.06518375
+Omega stored BF16,vit.encoder.layer.9.output.dense,3072,0.13037223
+Omega stored BF16,vit.encoder.layer.10.intermediate.dense,768,0.06529245
+Omega stored BF16,vit.encoder.layer.10.output.dense,3072,0.13032426
+Omega stored BF16,vit.encoder.layer.11.intermediate.dense,768,0.06533547
+Omega stored BF16,vit.encoder.layer.11.output.dense,3072,0.13036841
+Block-QR b=64,vit.encoder.layer.0.intermediate.dense,768,1.488e-05
+Block-QR b=64,vit.encoder.layer.0.output.dense,3072,2.976e-05
+Block-QR b=64,vit.encoder.layer.1.intermediate.dense,768,1.505e-05
+Block-QR b=64,vit.encoder.layer.1.output.dense,3072,2.981e-05
+Block-QR b=64,vit.encoder.layer.2.intermediate.dense,768,1.482e-05
+Block-QR b=64,vit.encoder.layer.2.output.dense,3072,2.998e-05
+Block-QR b=64,vit.encoder.layer.3.intermediate.dense,768,1.495e-05
+Block-QR b=64,vit.encoder.layer.3.output.dense,3072,3.008e-05
+Block-QR b=64,vit.encoder.layer.4.intermediate.dense,768,1.475e-05
+Block-QR b=64,vit.encoder.layer.4.output.dense,3072,2.976e-05
+Block-QR b=64,vit.encoder.layer.5.intermediate.dense,768,1.494e-05
+Block-QR b=64,vit.encoder.layer.5.output.dense,3072,3.027e-05
+Block-QR b=64,vit.encoder.layer.6.intermediate.dense,768,1.479e-05
+Block-QR b=64,vit.encoder.layer.6.output.dense,3072,2.997e-05
+Block-QR b=64,vit.encoder.layer.7.intermediate.dense,768,1.489e-05
+Block-QR b=64,vit.encoder.layer.7.output.dense,3072,3.01e-05
+Block-QR b=64,vit.encoder.layer.8.intermediate.dense,768,1.493e-05
+Block-QR b=64,vit.encoder.layer.8.output.dense,3072,3.027e-05
+Block-QR b=64,vit.encoder.layer.9.intermediate.dense,768,1.489e-05
+Block-QR b=64,vit.encoder.layer.9.output.dense,3072,2.986e-05
+Block-QR b=64,vit.encoder.layer.10.intermediate.dense,768,1.507e-05
+Block-QR b=64,vit.encoder.layer.10.output.dense,3072,3.015e-05
+Block-QR b=64,vit.encoder.layer.11.intermediate.dense,768,1.516e-05
+Block-QR b=64,vit.encoder.layer.11.output.dense,3072,3.016e-05
+Block-QR b=128,vit.encoder.layer.0.intermediate.dense,768,2.105e-05
+Block-QR b=128,vit.encoder.layer.0.output.dense,3072,4.185e-05
+Block-QR b=128,vit.encoder.layer.1.intermediate.dense,768,2.083e-05
+Block-QR b=128,vit.encoder.layer.1.output.dense,3072,4.216e-05
+Block-QR b=128,vit.encoder.layer.2.intermediate.dense,768,2.122e-05
+Block-QR b=128,vit.encoder.layer.2.output.dense,3072,4.196e-05
+Block-QR b=128,vit.encoder.layer.3.intermediate.dense,768,2.077e-05
+Block-QR b=128,vit.encoder.layer.3.output.dense,3072,4.194e-05
+Block-QR b=128,vit.encoder.layer.4.intermediate.dense,768,2.077e-05
+Block-QR b=128,vit.encoder.layer.4.output.dense,3072,4.216e-05
+Block-QR b=128,vit.encoder.layer.5.intermediate.dense,768,2.074e-05
+Block-QR b=128,vit.encoder.layer.5.output.dense,3072,4.199e-05
+Block-QR b=128,vit.encoder.layer.6.intermediate.dense,768,2.071e-05
+Block-QR b=128,vit.encoder.layer.6.output.dense,3072,4.196e-05
+Block-QR b=128,vit.encoder.layer.7.intermediate.dense,768,2.1e-05
+Block-QR b=128,vit.encoder.layer.7.output.dense,3072,4.189e-05
+Block-QR b=128,vit.encoder.layer.8.intermediate.dense,768,2.067e-05
+Block-QR b=128,vit.encoder.layer.8.output.dense,3072,4.202e-05
+Block-QR b=128,vit.encoder.layer.9.intermediate.dense,768,2.096e-05
+Block-QR b=128,vit.encoder.layer.9.output.dense,3072,4.192e-05
+Block-QR b=128,vit.encoder.layer.10.intermediate.dense,768,2.114e-05
+Block-QR b=128,vit.encoder.layer.10.output.dense,3072,4.172e-05
+Block-QR b=128,vit.encoder.layer.11.intermediate.dense,768,2.088e-05
+Block-QR b=128,vit.encoder.layer.11.output.dense,3072,4.229e-05
+Block-QR b=256,vit.encoder.layer.0.intermediate.dense,768,1.967e-05
+Block-QR b=256,vit.encoder.layer.0.output.dense,3072,4.063e-05
+Block-QR b=256,vit.encoder.layer.1.intermediate.dense,768,1.986e-05
+Block-QR b=256,vit.encoder.layer.1.output.dense,3072,4.059e-05
+Block-QR b=256,vit.encoder.layer.2.intermediate.dense,768,1.994e-05
+Block-QR b=256,vit.encoder.layer.2.output.dense,3072,4.063e-05
+Block-QR b=256,vit.encoder.layer.3.intermediate.dense,768,1.999e-05
+Block-QR b=256,vit.encoder.layer.3.output.dense,3072,4.058e-05
+Block-QR b=256,vit.encoder.layer.4.intermediate.dense,768,1.998e-05
+Block-QR b=256,vit.encoder.layer.4.output.dense,3072,4.084e-05
+Block-QR b=256,vit.encoder.layer.5.intermediate.dense,768,2.009e-05
+Block-QR b=256,vit.encoder.layer.5.output.dense,3072,4.046e-05
+Block-QR b=256,vit.encoder.layer.6.intermediate.dense,768,2.01e-05
+Block-QR b=256,vit.encoder.layer.6.output.dense,3072,4.02e-05
+Block-QR b=256,vit.encoder.layer.7.intermediate.dense,768,1.997e-05
+Block-QR b=256,vit.encoder.layer.7.output.dense,3072,4.045e-05
+Block-QR b=256,vit.encoder.layer.8.intermediate.dense,768,2.008e-05
+Block-QR b=256,vit.encoder.layer.8.output.dense,3072,4.047e-05
+Block-QR b=256,vit.encoder.layer.9.intermediate.dense,768,2.004e-05
+Block-QR b=256,vit.encoder.layer.9.output.dense,3072,4.067e-05
+Block-QR b=256,vit.encoder.layer.10.intermediate.dense,768,1.997e-05
+Block-QR b=256,vit.encoder.layer.10.output.dense,3072,4.054e-05
+Block-QR b=256,vit.encoder.layer.11.intermediate.dense,768,2.007e-05
+Block-QR b=256,vit.encoder.layer.11.output.dense,3072,4.05e-05
+Block-QR b=384,vit.encoder.layer.0.intermediate.dense,768,1.964e-05
+Block-QR b=384,vit.encoder.layer.0.output.dense,3072,4.083e-05
+Block-QR b=384,vit.encoder.layer.1.intermediate.dense,768,1.975e-05
+Block-QR b=384,vit.encoder.layer.1.output.dense,3072,4.068e-05
+Block-QR b=384,vit.encoder.layer.2.intermediate.dense,768,1.944e-05
+Block-QR b=384,vit.encoder.layer.2.output.dense,3072,4.089e-05
+Block-QR b=384,vit.encoder.layer.3.intermediate.dense,768,1.938e-05
+Block-QR b=384,vit.encoder.layer.3.output.dense,3072,4.084e-05
+Block-QR b=384,vit.encoder.layer.4.intermediate.dense,768,1.929e-05
+Block-QR b=384,vit.encoder.layer.4.output.dense,3072,4.061e-05
+Block-QR b=384,vit.encoder.layer.5.intermediate.dense,768,1.943e-05
+Block-QR b=384,vit.encoder.layer.5.output.dense,3072,4.074e-05
+Block-QR b=384,vit.encoder.layer.6.intermediate.dense,768,1.949e-05
+Block-QR b=384,vit.encoder.layer.6.output.dense,3072,4.078e-05
+Block-QR b=384,vit.encoder.layer.7.intermediate.dense,768,1.938e-05
+Block-QR b=384,vit.encoder.layer.7.output.dense,3072,4.062e-05
+Block-QR b=384,vit.encoder.layer.8.intermediate.dense,768,1.948e-05
+Block-QR b=384,vit.encoder.layer.8.output.dense,3072,4.068e-05
+Block-QR b=384,vit.encoder.layer.9.intermediate.dense,768,1.943e-05
+Block-QR b=384,vit.encoder.layer.9.output.dense,3072,4.099e-05
+Block-QR b=384,vit.encoder.layer.10.intermediate.dense,768,1.971e-05
+Block-QR b=384,vit.encoder.layer.10.output.dense,3072,4.107e-05
+Block-QR b=384,vit.encoder.layer.11.intermediate.dense,768,1.953e-05
+Block-QR b=384,vit.encoder.layer.11.output.dense,3072,4.078e-05

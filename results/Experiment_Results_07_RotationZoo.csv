@@ -1,0 +1,17 @@
+Bit_Config,Variant,Kind,Params,Top1_Acc
+W6A6,Identity (Std PTQ),identity,{},54.3
+W6A6,Random Gaussian (non-orth),gaussian,{},0.14
+W6A6,QR / Haar,qr,{},79.84
+W6A6,Hadamard truncated,had_trunc,{},43.45
+W6A6,Hadamard truncated + rand ±1,had_trunc_rand,{},46.34
+W6A6,Hadamard padded (exact),had_padded,{},79.77
+W6A6,Hadamard block-64,had_block,{'b': 64},79.73
+W6A6,Hadamard block-128,had_block,{'b': 128},79.84
+W6A6,Hadamard block-256,had_block,{'b': 256},79.93
+W6A6,Hadamard block-128 + rand ±1,had_block_rand,{'b': 128},79.84
+W6A6,Householder k=1,householder,{'k': 1},54.28
+W6A6,Householder k=8,householder,{'k': 8},57.61
+W6A6,Householder k=64,householder,{'k': 64},66.3
+W6A6,Householder k=d,householder,{'k': -1},79.82
+W6A6,Cayley random,cayley,{},79.94
+W6A6,PCA rotation (data-aware),pca,{},41.16

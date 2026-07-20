@@ -1,0 +1,7 @@
+task,bits,target,fp32,none,qr
+detection,W8A8,all,28.75,28.03,28.4
+detection,W6A6,all,28.75,16.93,23.94
+detection,W4A4,all,28.75,0.0,1.29
+segmentation,W8A8,all,43.21,43.18,43.24
+segmentation,W6A6,all,43.21,39.75,42.89
+segmentation,W4A4,all,43.21,0.42,31.83

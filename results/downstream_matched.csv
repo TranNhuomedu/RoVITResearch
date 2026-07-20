@@ -1,0 +1,7 @@
+task,bits,target,fp32,none,qr,hadamard
+detection,W8A8,mlp,28.75,28.03,28.36,0.1
+detection,W6A6,mlp,28.75,16.93,22.95,0.07
+detection,W4A4,mlp,28.75,0.0,0.18,0.0
+segmentation,W8A8,mlp,43.21,43.18,43.23,28.85
+segmentation,W6A6,mlp,43.21,39.75,42.92,25.91
+segmentation,W4A4,mlp,43.21,0.42,28.96,5.91

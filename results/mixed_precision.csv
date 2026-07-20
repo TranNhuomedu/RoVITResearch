@@ -1,0 +1,10 @@
+config,mAP
+fp32,28.75
+all_int4,0.18
+all_int8,28.36
+int8_bbox_head,0.18
+int8_cls_head,0.18
+int8_both_heads,0.18
+int8_backbone,28.36
+int8_attn_only,0.18
+int8_mlp_only,0.18

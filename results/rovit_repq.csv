@@ -1,0 +1,9 @@
+model,bits,config,seed,top1
+google/vit-base-patch16-224,W4A4,standard,42,0.13
+google/vit-base-patch16-224,W4A4,rovit,42,31.77
+google/vit-base-patch16-224,W4A4,repq,42,0.09
+google/vit-base-patch16-224,W4A4,rovit+repq,42,2.95
+google/vit-base-patch16-224,W6A6,standard,42,54.33
+google/vit-base-patch16-224,W6A6,rovit,42,79.76
+google/vit-base-patch16-224,W6A6,repq,42,54.73
+google/vit-base-patch16-224,W6A6,rovit+repq,42,79.91
